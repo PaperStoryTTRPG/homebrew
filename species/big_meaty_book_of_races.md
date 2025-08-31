@@ -133,7 +133,7 @@ contributors:
 >
 > Bonnetters travel the world wide via airships of their likeness. They have an impeccable sense of fashion, and none would dare chastise a bonneeter's opinion on attire.  
 >
-> *Credit to **@deuceblitz**{: .courage-color } and **@lucydndprincess**{: .courage-color } on DIscord for help with the capture State.*{: .fs-3 }
+> *Credit to **@deuceblitz**{: .courage-color } and **@lucydndprincess**{: .courage-color } on Discord for help with the capture State.*{: .fs-3 }
 >
 > ***+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
