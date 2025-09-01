@@ -234,7 +234,7 @@ contributors:
 >
 
 {: .specie-callout }
-> ### Moogle
+> ## Moogle
 >
 > ![](../assets/images/species/moogle.png){: .center-img }
 >
