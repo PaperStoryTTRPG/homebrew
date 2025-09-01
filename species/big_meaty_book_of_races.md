@@ -133,7 +133,7 @@ contributors:
 >
 > Bonnetters travel the world wide via airships of their likeness. They have an impeccable sense of fashion, and none would dare chastise a bonneeter's opinion on attire.  
 >
-> *Credit to **@deuceblitz**{: .courage-color } and **@lucydndprincess**{: .courage-color } on Discord for help with the capture State.*{: .fs-3 }
+> Credit to *@deuceblitz**{: .courage-color } and *@lucydndprincess*{: .courage-color } on Discord for help with the capture State.
 >
 > ***+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -153,7 +153,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Other Traits*{: .text-gamma .header-font }  
 > > State (Capture)  
-> > *By spending **2 FP**{: .spirit-color }, you can attempt to possess an enemy. This is considered a Charm technique that uses *Athletics*{: .heart-color }.*{: .mgl .fs-3 }  
+> > *By spending **2 FP**{: .spirit-color }, you can attempt to possess an enemy. This is considered a Charm technique that uses **Athletics**{: .heart-color }.*{: .mgl .fs-3 }  
 > > *An enemy Charmed in this way takes your place in combat, and you must use your action to maintain the Charm. While you have an enemy charmed in this way, any damage the enemy would take is inflicted on you instead. You can maintain this Charm for a number of turns per grade of success.*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: 1 turn*{: .mgl-big .fs-3 }  
 > > ***Good!**{: .good-color }: 2 turns*{: .mgl-big .fs-3 }  
@@ -177,6 +177,8 @@ contributors:
 >
 > ![](../assets/images/species/boomboxer.png)
 > {: .float-right-desktop }
+> From *Super Paper Mario*{: .italic }  
+>
 > These bizarre creatures have boombox-like protrusions sticking out of their heads. It's unclear if they make loud noises out of self-defense or because they like it, but they make good companions if you can handle their sudden outbursts.
 > 
 > *Created by **@piyohthegenius**{: .courage-color }*{: .fs-3 }
@@ -256,12 +258,12 @@ contributors:
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Notice (Keep Watch){: .spirit-color }  
-> > *+ Trickery (Camouflage){: .spirit-color }
+> > *+ Notice (Keep Watch)*{: .spirit-color }  
+> > *+ Trickery (Camouflage)*{: .spirit-color }  
 > > *+ Steady (Balance)*{: .courage-color }  
-> > Construct
-> > Contact
-> > *Your Contact trait can protect you from tool-based melee attacks.*{: .mgl .fs-3 }
+> > Construct  
+> > Contact  
+> > *Your Contact trait can protect you from tool-based melee attacks.*{: .mgl .fs-3 }  
 > > Immune (Fire)
 >
 > {: .specie-cons-callout }
@@ -274,12 +276,11 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Counter
+> > Counter  
 > > *Disarm x2*{: .alt-grey-line }  
-> > Piercing
+> > Piercing  
 > > *Tool (Built-in)*{: .alt-grey-line }  
 > >
-> > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 > 
 
 {: .specie-callout }
@@ -389,7 +390,7 @@ contributors:
 > ![](../assets/images/species/bulrush.webp)
 > {: .float-right-desktop }
 > 
-> From *Super Mario Bros. Wonder*{: .italic }
+> From *Super Mario Bros. Wonder*{: .italic }  
 > Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn’t mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not.
 >
 > ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }  
@@ -397,26 +398,24 @@ contributors:
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Athletics (Charge){: .heart-color }  
-> > *+ Guard (Melee){: .heart-color }
+> > *+ Athletics (Charge)*{: .heart-color }  
+> > *+ Guard (Melee)*{: .heart-color }  
 > > *+ Bully (Shove)*{: .courage-color }  
-> > {: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Weakness (Charm/Confuse/Provoke) 
+> > Weakness (Charm/Confuse/Provoke)  
 > > *The Level and Duration of any of these Statuses inflicted on you is doubled.*{: .mgl .fs-3 }
 >
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Piercing
+> > Piercing  
 > > *Overrun*{: .alt-grey-line }  
 > > Spillover  
 > > *Stun*{: .alt-grey-line }  
 > >
-> > Any *Required*{: .underlined } or *Optional*{: .underlined } effects are listed underneath, and can (or must) be taken in addition to Tech Defaults.
 > 
 
 {: .specie-callout }
@@ -470,8 +469,8 @@ contributors:
 > > *+ Knowhow (Cuisine)*{: .spirit-color }  
 > > *+ Knowhow (Intrigue)*{: .spirit-color }  
 > > *+ Bully (Disgust)*{: .courage-color }  
-> > Hover
-> > Immune (Gases)
+> > Hover  
+> > Immune (Gases)  
 > > *Gas-based attacks and effects have no effect on you.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
@@ -481,7 +480,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Aerial
+> > Aerial  
 > > *Daze x2*{: .alt-grey-line }  
 > > Lingering x2  
 > > *Stun*{: .alt-grey-line }  
@@ -496,7 +495,7 @@ contributors:
 > From *Mario & Luigi: Partners in Time*{: .italic }  
 >
 > Coconutters live deep in jungles and tropics, fostering and growing nature around them. They don"t often take kindly to trespassers!  
-> Credit to “Fernikart57” on DeviantArt for the art.
+> Credit to "Fernikart57" on DeviantArt for the art.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -604,7 +603,7 @@ contributors:
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Guard (Melee)*{: .heart-color }  
-> > *+ Magic (Curses)*{: .spirit-color }
+> > *+ Magic (Curses)*{: .spirit-color }  
 > > *+ Bully (Weaken)*{: .spirit-color }
 >
 > {: .specie-cons-callout }
@@ -614,9 +613,9 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Counter
+> > Counter  
 > > *Stun*{: .alt-grey-line }  
-> > Tutor (May not have any positive traits)
+> > Tutor (May not have any positive traits)  
 > > *Weaken (Any)*{: .alt-grey-line }  
 > >
 >
@@ -636,10 +635,10 @@ contributors:
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Athletics (Swim)*{: .heart-color }  
-> > *+ Coordination (Carrying)*{: .heart-color }
-> > *+ Notice (Underwater)*{: .spirit-color }
-> > Immune (Poison)
-> > Aquatic
+> > *+ Coordination (Carrying)*{: .heart-color }  
+> > *+ Notice (Underwater)*{: .spirit-color }  
+> > Immune (Poison)  
+> > Aquatic  
 > > Carrier (In Water)
 >
 > {: .specie-cons-callout }
@@ -649,9 +648,9 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Overrun
+> > Overrun  
 > > *Reach*{: .alt-grey-line }  
-> > Selective
+> > Selective  
 > > *Swap x2*{: .alt-grey-line }  
 > >
 >
@@ -661,7 +660,7 @@ contributors:
 >
 > ![](../assets/images/species/dragon.webp)
 > {: .float-right-desktop }
-> From *Super Mario 64*{: .italic }  
+> From *Paper Mario 64*{: .italic }  
 >
 > Dragons are fearsome creatures, holding sway over powerful breath attacks, and commanding personalities. Being in the good graces of a dragon can be one of the strongest boons anyone can receive.
 >
@@ -671,22 +670,22 @@ contributors:
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Athletics (Fly)*{: .heart-color }  
-> > *+ Notice (Treasure)*{: .spirit-color }
-> > *+ Bully (Assert Self)*{: .courage-color }
-> > Carrier
+> > *+ Notice (Treasure)*{: .spirit-color }  
+> > *+ Bully (Assert Self)*{: .courage-color }  
+> > Carrier  
 > > Fly
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Waekness (Specific Noise)
+> > Weakness (Specific Noise)  
 > > *Choose a specific, common sound, such as a cricket’s chirp, thunderclaps, or a bell. Whenever you can hear this sound, your attack is Weakened (2), and you lose any defense points you have, for as long as you can hear the sound (minimum 1 turn).*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Burst
+> > Burst  
 > > *Drain x2*{: .alt-grey-line }  
-> > Element (Any, defined at character creation)
+> > Element (Any, defined at character creation)  
 > > *Quake*{: .alt-grey-line }  
 > >
 >
@@ -717,9 +716,9 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost 
-> > *Dismiss*{: .alt-grey-line } 
-> > Group
+> > Boost  
+> > *Dismiss*{: .alt-grey-line }  
+> > Group  
 > > *Hearty x2*{: .alt-grey-line }  
 > >
 >
@@ -771,9 +770,11 @@ contributors:
 >
 > ![](../assets/images/species/floro_sapien.webp)
 > {: .float-right-desktop }
-> From *Super Mario 3D Land*{: .italic }  
+> From *Super Paper Mario*{: .italic }  
 >
 > Distant relatives of dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can’t fix the problem with good vibes.
+>
+> *Created by: @lonelyazalea*{: .italic .courage-color }
 >
 > ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -783,8 +784,8 @@ contributors:
 > > *+ Magic (IOnfluence)*{: .spirit-color }  
 > > *+ Knowhow (Nature)*{: .spirit-color }  
 > > *+ Steady (Thorns)*{: .courage-color }  
-> > Immunity (Water)
-> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }
+> > Immunity (Water)  
+> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
 > > 1 Resist (Earth)
 >
 > {: .specie-cons-callout }
@@ -795,12 +796,11 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Alternate (HP), Indirect
+> > Alt-Cost (*HP*{: .heart-color }), Indirect  
 > > *Charm*{: .alt-grey-line }  
-> > Counter (Self)
+> > Counter (Self)  
 > > *Daze x2*{: .alt-grey-line }
 > > 
-> > *Created by: @lonelyazalea*{: .italic }
 >
 
 {: .specie-callout }
@@ -808,18 +808,22 @@ contributors:
 >
 > ![](../assets/images/species/fronk.png)
 > {: .float-right-desktop }
+> From *WarioWare Inc.*{: .italic }
+>
 > Fronks are bizarre little creatures found in most urban areas. They have an innate connection with technology, which can often put them into precarious situations when investigating machines.  
+>
+> *Concept: @yossycoin*{: .italic .courage-color }
 >
 > ***+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
-> > *Pros*{: .text-gamma .header-font }
+> > *Pros*{: .text-gamma .header-font }  
 > > *+ Magic (Technology)*{: .spirit-color }  
-> > *+ Knowhow (Hacking)*{: .spirit-color }
-> > *+ Trickery (Stealth)*{: .spirit-color }
+> > *+ Knowhow (Hacking)*{: .spirit-color }  
+> > *+ Trickery (Stealth)*{: .spirit-color }  
 > > Clones (Copies)  
-> > Efficient (Technology){: .mgl .fs-3 }
+> > Efficient (Technology)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -834,7 +838,6 @@ contributors:
 > > Selective  
 > > *Tool*{: .alt-grey-line }  
 > > 
-> > *Concept: @yossycoin*{: .italic }
 >
 
 {: .specie-callout }
@@ -850,16 +853,14 @@ contributors:
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
-> > *Pros*{: .text-gamma .header-font }
+> > *Pros*{: .text-gamma .header-font }  
 > > *+ Crafts (Bamboo)*{: .spirit-color }  
-> > *+ Trickery (Camouflage)*{: .spirit-color }
-> > *+ Steady (Balance)*{: .courage-color }
-> > {: .mgl .fs-3 }
+> > *+ Trickery (Camouflage)*{: .spirit-color }  
+> > *+ Steady (Balance)*{: .courage-color }  
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless
-> > {: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -900,7 +901,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Disarm x2
+> > Disarm x2  
 > > *Homing*{: .alt-grey-line }  
 > > Swap x2  
 > > *Tool (Built-In)*{: .alt-grey-line }  
@@ -1003,9 +1004,9 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
-> > Weakness (Heatwave/Lava)
-> > *You cannot use your fly or hover personal traits in battles where either of these conditions are present, unless there is a nearby source of water.*
+> > Handless  
+> > Weakness (Heatwave/Lava)  
+> > *You cannot use your fly or hover personal traits in battles where either of these conditions are present, unless there is a nearby source of water.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1033,9 +1034,8 @@ contributors:
 > > *+ Athletics (Flying)*{: .heart-color }  
 > > *+ Knowhow (Navigation)*{: .spirit-color }  
 > > *+ Bully (Pushover)*{: .courage-color }  
-> > Hover
+> > Hover  
 > > Fly
-> > {: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -1044,9 +1044,9 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Aerial
+> > Aerial  
 > > *Overrun*{: .alt-grey-line }  
-> > Strike-Through
+> > Strike-Through  
 > >
 > > *Optional*{: .underlined }: Element (Air) on Indirect attacks
 >
@@ -1101,8 +1101,8 @@ contributors:
 > > *+ Athletics (Climbing)*{: .heart-color }  
 > > *+ Magic (Transport)*{: .spirit-color }  
 > > *+ Trickery (Blend In)*{: .spirit-color }  
-> > Carrier
-> > Construct (Lifelike)
+> > Carrier  
+> > Construct (Lifelike)  
 > > Sinker
 >
 > {: .specie-cons-callout }
@@ -1114,7 +1114,7 @@ contributors:
 > >
 > > Divider  
 > > *Overrun*{: .alt-grey-line }  
-> > Ranged
+> > Ranged  
 > > *Swap x2*{: .alt-grey-line }  
 > >
 >
@@ -1189,11 +1189,11 @@ contributors:
 >
 > ![](../assets/images/species/lil_oink.png)
 > {: .float-right-desktop }
-> From *Paper Mario*{: .italic }  
+> From *Paper Mario 64*{: .italic }  
 >
 > These bespeckled pigs are skittish little things, though are beloved by all for their patterns. They are creatures of chance, happening upon places and things they generally shouldn't.  
 >
-> *Created by **@lonelyazalea**{: .courage-color }*{: .fs-3 }
+> *Created by **@lonelyazalea**{: .italic .courage-color }*{: .fs-3 }
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1224,13 +1224,15 @@ contributors:
 >
 > ![](../assets/images/species/milde.webp)
 > {: .float-right-desktop }
-> From *Paper Mario*{: .italic }  
+> From *Super Mario World 2: Yoshi's Island*{: .italic }  
 >
 > Mildes are known to be a cheerful and carefree bunch, not letting much get to them. They’re known for their precise movements and marching, though tend to be a little airheaded… especially when stomped on.
 >
-> *Created by **@lonelyazalea**{: .courage-color }*{: .fs-3 }
+> Created by *@lonelyazalea*{: .italic .courage-color } and *@piyohthegenius*{: .italic .courage-color }
 >
-> ***+2 Courage**{: .courage-color}, or **+1 Heart**{: .heart-color }and **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *CAUTION! With their weakness, a milde player can easily get out of hand in combat. Make sure to run this by your GM first!*{: .bold }
+>
+> ***+2 Courage**{: .courage-color} or **+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
@@ -1239,23 +1241,21 @@ contributors:
 > > *+ Coordination (Marching)*{: .heart-color }  
 > > *+ Steady (Poise)*{: .courage-color }  
 > > Clone (Copies)
-> > **You may use *Athletics*{: .heart-color } in order to create a copy.**{: .mgl .fs-3 }
+> > *You may use *Athletics*{: .heart-color } in order to create a copy.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
 > > Weakness (Aerial)
 > > *You take double damage, and are forced to create a copy. Each copy has -1 attack, increasing by -1 for every subsequent copy made this way.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Burst
+> > Burst  
 > > *Indirect*{: .alt-grey-line }  
 > > Launch
-> > 
-> > *Created by: @piyohthegenius*{: .italic }
-> > *CAUTION! With their weakness, a milde player can easily get out of hand in combat. Make sure to run this by your GM first!*{: .bold }
+> >
 >
 
 {: .specie-callout }
@@ -1349,12 +1349,11 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless
-> > {: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Homing 
+> > Homing  
 > > *Indirect*{: .alt-grey-line }  
 > > Snatch  
 > > *Strike-Through*{: .alt-grey-line }  
@@ -1370,6 +1369,8 @@ contributors:
 >
 > Pigarithm are flighty creatures, due in part to the large amount of coins they carry inside them at all times. The trust of a pigarithm is rarely earned, but represents a near unbreakable bond.
 >
+> *Created by: @lonelyazalea*{: .italic .courage-color }
+>
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }  
 >
@@ -1382,19 +1383,18 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
-> > Weakness (Aerisl, Crushing)
+> > Handless  
+> > Weakness (Aerial, Crushing)  
 > > *The Level and Duration of all Statuses you suffer from these attacks are doubled, and you lose 1 coin per point of damage.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Alternative (Coins) 
+> > Alt-Cost (Coins)  
 > > *Boost (**Dodge**{: .spirit-color})*{: .alt-grey-line }  
 > > Overrun  
 > > *Minion (Split Selves)*{: .alt-grey-line }  
 > >
-> > *Created by: @lonelyazalea*{: .italic }
 >
 
 {: .specie-callout }
@@ -1482,22 +1482,23 @@ contributors:
 > > *+ Aim (Items)*{: .heart-color }  
 > > *+ Knowhow (Flora)*{: .spirit-color }  
 > > *+ Persuade (Sales)*{: .courage-color }  
-> > Immune (Water)
-> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }
+> > Immune (Water)  
+> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
 > > +½ Syrup effectiveness (for items, as user or target)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Weakness (Heatwave)
+> > Weakness (Heatwave)  
 > > *You are considered Disoriented (1) while in a heatwave.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Flowery 
+> > Flowery  
 > > *Shared*{: .alt-grey-line }  
-> > Terrain (Overgrown)
+> > Terrain (Overgrown)  
 > > *Tool*{: .alt-grey-line }  
+> >
 > > *Optional*{: .underlined }: Split on Flowery Techniques.
 >
 
@@ -1697,9 +1698,9 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost (Any)
+> > Boost (Any)  
 > > *Burst*{: .alt-grey-line }  
-> > Provoke x2
+> > Provoke x2  
 > > *Ranged*{: .alt-grey-line }  
 > >
 >
@@ -1713,6 +1714,8 @@ contributors:
 >
 > These Flower Kingdom fellows love nothing more than talking. They often travel far and wide, just to have a conversation partner.
 >
+> *Concept: @piyohthegenius*{: .italic .courage-color }
+>
 > ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
@@ -1720,7 +1723,7 @@ contributors:
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Knowhow (Any, defined at character creation)*{: .spirit-color }  
 > > *+ Cheer (Encourage)*{: .courage-color }  
-> > *+ Persuade (Shmooze)*{: .courage-color }
+> > *+ Persuade (Shmooze)*{: .courage-color }  
 > > Fly
 >
 > {: .specie-cons-callout }
@@ -1730,12 +1733,11 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Boost
+> > Boost  
 > > *Confuse x2*{: .alt-grey-line }  
-> > Flowery
+> > Flowery  
 > > *Provoke x2*{: .alt-grey-line }  
 > >
-> > *Concept: @piyohthegenius*{: .italic }
 >
 
 {: .specie-callout }
@@ -1752,10 +1754,10 @@ contributors:
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *Trickery (Disguise)*{: .spirit-color }
-> > *or **Crafts (Costumes)**{: .spirit-color }*{: .mgl }
+> > *Trickery (Disguise)*{: .spirit-color }  
+> > *or **Crafts (Costumes)**{: .spirit-color }*{: .mgl }  
 > > *+ Cheer (Teamwork)*{: .courage-color }  
-> > *+ Perform (Theatrics)*{: .courage-color }
+> > *+ Perform (Theatrics)*{: .courage-color }  
 > > Fly
 >
 > {: .specie-cons-callout }
@@ -1766,9 +1768,9 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Allies
+> > Allies  
 > > *Daze x2*{: .alt-grey-line }  
-> > Element (Light)
+> > Element (Light)  
 > > *Flowery*{: .alt-grey-line }  
 > > 
 >
@@ -1940,7 +1942,7 @@ contributors:
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > *Lingering x2*{: .alt-grey-line }  
-> > Piercing
+> > Piercing  
 > > *Ranged*{: .alt-grey-line }  
 > > Repeat  
 > >
@@ -2095,6 +2097,8 @@ contributors:
 >
 > Waddlewings are deft little creatures, capable of gliding through the air with ease. Many waddlewings find a hobby in collecting objects.
 >
+> Credit to *@lucydndprincess*{: .italic .courage-color } for fly mechanic.
+>
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
@@ -2113,12 +2117,11 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Aerial
+> > Aerial  
 > > *Disarm x2*{: .alt-grey-line }  
-> > Reach
+> > Reach  
 > > *Snatch*{: .alt-grey-line }  
 > >
-> > *Credit to @lucydndprincess for fly mechanic.*{: .italic }
 >
 
 {: .specie-callout }
