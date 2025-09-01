@@ -22,15 +22,15 @@ contributors:
 {:toc}
 </details>
 
-## Species
+# Species
 
 {: .specie-callout }
-> ### <h2>Species Name</h2>
+> ## Pokio
 >
-> ![](assets/images/species/pokio.png)
+> ![](../assets/images/species/pokio.png)
 > {: .float-right-desktop }
 > Small, pheasant-like avians notable for their tough, retractable beaks.  
-> With pride and honor, these borbs (Bird-orbs) typically “fling” themselves head-first into their troubles, prodding at it before “poking” through with their natural solution.
+> With pride and honor, these borbs (Bird-orbs) typically "fling" themselves head-first into their troubles, prodding at it before "poking" through with their natural solution.
 >
 > ***+1 Heart**{: .heart-color}, **+1 Courage**{: .courage-color}*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -58,12 +58,12 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Species Name</h2>
+> ## Elephant-Kin
 >
-> ![](assets/images/species/elephant-kin.png)
+> ![](../assets/images/species/elephant-kin.png)
 > {: .float-right-desktop }
 > Bipedal creatures with good hearing, strong hides and even stronger trunks, the latter making them capable of acrobatic maneuvers and blasting air and water.  
-> They’re generally quite approachable, but their sensitive ears make them easy to startle.
+> They're generally quite approachable, but their sensitive ears make them easy to startle.
 >
 > ***+2 Heart**{: .heart-color } or **+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }  
@@ -95,9 +95,9 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Kitchen-Kids (Tomato Adventure)</h2>
+> ## Kitchen-Kids (Tomato Adventure)
 >
-> ![](assets/images/species/kitchen-kids.png)
+> ![](../assets/images/species/kitchen-kids.png)
 > {: .float-right-desktop }
 > Hailing from a variety of culinary-themed kingdoms, these youngsters of differing looks and sizes share a love and affinity for gimmick-ridden gadgets and challenges.  
 > Because of this, you can count on them to get the job done together (No matter how unorthodox their methods appear).
@@ -128,9 +128,9 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Chocobo</h2>
+> ## Chocobo
 >
-> ![](assets/images/species/chocobo.png)
+> ![](../assets/images/species/chocobo.png)
 > {: .float-right-desktop }
 > Birds of many feathers and many capabilities, but commonly flightless with a fast-dash.  
 > Outside of their speed when healthy, many seek a Chocobo companion for their gentle natures, yet undeniable bravery (Not to mention their cuteness).
@@ -162,9 +162,9 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Nu-Mou</h2>
+> ## Nu-Mou
 >
-> ![](assets/images/species/nu-mou.png){: .center-img }
+> ![](../assets/images/species/nu-mou.png){: .center-img }
 >
 > With elongated faces and drooping, bored ears, this old-looking race is one of many hailing from the land of Ivalice.  
 > Though ill-fit for the front lines, their expertise in medicine, ancient stories and all things magic make up for it tenfold.
@@ -198,9 +198,9 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Seeq</h2>
+> ## Seeq
 >
-> ![](assets/images/species/seeq.png){: .center-img }
+> ![](../assets/images/species/seeq.png){: .center-img }
 >
 > One-horned pig-people from the land of Ivalice, acting as excellent front-liners.  
 > Though characterized as all brawn and no brains, many carry expertise in war tactics and unconventional item-use that can turn the tides of even the most one-sided of battles.
@@ -233,12 +233,12 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Moogle</h2>
+> ### Moogle
 >
-> ![](assets/images/species/moogle.png){: .center-img }
+> ![](../assets/images/species/moogle.png){: .center-img }
 >
 > Short-stature, cute bat-wings, and bright red pom-poms easily distinguish these daring folk from the rest of the Ivalian crowd.  
-> They’re well known for their verbal tic “Kupo”, and the variety of odd-jobs they can find themselves in, so long as they set their minds to them.
+> They're well known for their verbal tic “Kupo”, and the variety of odd-jobs they can find themselves in, so long as they set their minds to them.
 >
 > *+2 Courage*{: .text-gamma .header-font .courage-color }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -265,12 +265,12 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Viera</h2>
+> ## Viera
 >
-> ![](assets/images/species/viera.png){: .center-img }
+> ![](../assets/images/species/viera.png){: .center-img }
 >
 > Silver-haired are these hare-featured folk from the woods of Ivalice.  
-> Limber, keen to even the slightest change in their surroundings, and deeply entwined with the voice of the woods, they’re able to avoid even the most chaotic of attack flurries, make precise strikes, and call upon spiritual energy to aid them.
+> Limber, keen to even the slightest change in their surroundings, and deeply entwined with the voice of the woods, they're able to avoid even the most chaotic of attack flurries, make precise strikes, and call upon spiritual energy to aid them.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -299,12 +299,12 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Bangaa</h2>
+> ## Bangaa
 >
-> ![](assets/images/species/bangaa.png){: .center-img }
+> ![](../assets/images/species/bangaa.png){: .center-img }
 >
 > Reptilian-people from Ivalice with tough scales and intimidating looks.  
-> They’re characterized with a love for combat and proficiency with many forms of steel and edge, and are capable of fending off even the most unstoppable of forces.
+> They're characterized with a love for combat and proficiency with many forms of steel and edge, and are capable of fending off even the most unstoppable of forces.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }  
@@ -334,9 +334,9 @@ contributors:
 >
 
 {: .specie-callout }
-> ### <h2>Gria</h2>
+> ## Gria
 >
-> ![](assets/images/species/gria.png){: .center-img }
+> ![](../assets/images/species/gria.png){: .center-img }
 >
 > Dragon-human hybrids, from the land of Ivalice, who are much tougher than they look.  
 > Possessing powerful wings and a strong fighting spirit, they can rise above their competition, before swooping in for the kill.
@@ -367,12 +367,12 @@ contributors:
 > > Custom Sets are defined during character creation. For Grias, they can include any Traits totalling no more than *2 FP*{: .spirit-color }, but can't include negative Traits. They can include Variant (*Athletics*{: .heart-color }) for no additional cost.
 >
 
-## Subspecies
+# Subspecies
 
 {: .subspecie-callout }
-> ### <h2>Fruity-</h2>
+> ## Fruity-
 >
-> ![](assets/images/species/sub/fruity.png)
+> ![](../assets/images/species/sub/fruity.png)
 > {: .float-right-desktop }
 >
 > Creatures of this variety have a physique heavily entwined with fruits, be it having bodies that produce naturally sweet substances, or having ones that full-on mimic one and its properties.  
@@ -425,12 +425,12 @@ contributors:
 >
 
 {: .subspecie-callout }
-> ### <h2>Gooey-</h2>
+> ## Gooey-
 >
-> ![](assets/images/species/sub/gooey.png)
+> ![](../assets/images/species/sub/gooey.png)
 > {: .float-right-desktop }
 >
-> These creatures have bodies of slime, sticky or loose on a whim, and while they aren’t inherently toxic, they fare better than most in messy environments (Mud, goop and rain).  
+> These creatures have bodies of slime, sticky or loose on a whim, and while they aren't inherently toxic, they fare better than most in messy environments (Mud, goop and rain).  
 > They can be picky at times with how their food is prepared though, which is understandable as a literal matter of life or death.
 >
 > *e.g. Snail Koopas(?), Spike Blops*{: .italic }
@@ -486,12 +486,12 @@ contributors:
 >
 
 {: .subspecie-callout }
-> ### <h2>Bullet Artist (Touhou, Len'en, etc.)</h2>
+> ## Bullet Artist (Touhou, Len'en, etc.)
 >
-> ![](assets/images/species/sub/bullet_artist.png){: .center-img }
+> ![](../assets/images/species/sub/bullet_artist.png){: .center-img }
 >
 > Be it human, monster, or even god, these individuals are ones who see soaring through the air and creating waves of colorful yet powerful bullet curtains as the norm.  
-> Though the specifics may vary, they’ll almost always be up for giving you a beautiful (yet painful) showcase.
+> Though the specifics may vary, they'll almost always be up for giving you a beautiful (yet painful) showcase.
 >
 > *[Class Archetype]*{: .header-font }
 >
@@ -508,7 +508,7 @@ contributors:
 > > Efficient (Bullet-Barrages)  
 > >
 > > Once per Battle, when hit with an Attack that would K.O. you, make a *Magic*{: .spirit-color } or *Perform*{: .courage-color } check:
-> > ***Great!**{: .great-color }: Negate the Attack, and use a technique as a free action. The technique’s cost is considered doubled for this use, and must cost more than **0 FP**{: .spirit-color } (and must be payable), but can also be an **MP**{: .mp-color }-costing technique from a spell card [[Elive]]() in your inventory (The spell card is used up for this, but is not triggered fully). If neither apply, the attack still goes through.*{: .mgl .fs-3 }
+> > ***Great!**{: .great-color }: Negate the Attack, and use a technique as a free action. The technique's cost is considered doubled for this use, and must cost more than **0 FP**{: .spirit-color } (and must be payable), but can also be an **MP**{: .mp-color }-costing technique from a spell card [[Elive]]() in your inventory (The spell card is used up for this, but is not triggered fully). If neither apply, the attack still goes through.*{: .mgl .fs-3 }
 > >
 > > Weakness (Air, Aerial)  
 > > *You must make a **Steady**{: .courage-color } check versus Disorientation (1), lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
@@ -546,9 +546,9 @@ contributors:
 >
 
 {: .subspecie-callout }
-> ### <h2>Hue Sorcerer (Puyo Puyo)</h2>
+> ## Hue Sorcerer (Puyo Puyo)
 >
-> ![](assets/images/species/sub/hue_sorcerer.png){: .center-img }
+> ![](../assets/images/species/sub/hue_sorcerer.png){: .center-img }
 >
 > Magic-users of a special archetype that are quite competitive.  
 > Through a process typically reserved for mono-colored jelly creatures, these magicians can line up and extract magical power from entities of the same color to charge devastating attacks on opponents.
@@ -568,7 +568,7 @@ contributors:
 > > When targeting at least 3 adjacent enemies of the same prominent color (eg. Red shelled koopa, red cheep-cheep, cherry bob-omb), you roll 1 extra die for the checks + 1d6 for every extra applicable enemy beyond the minimum 3.
 > >
 > > Weakness (Multi-Hit)  
-> > *Subsequent Attacks from a single enemy in a single turn deal +2 damage if the damage from the previous attack wasn’t completely blocked.*{: .mgl .fs-3 }  
+> > *Subsequent Attacks from a single enemy in a single turn deal +2 damage if the damage from the previous attack wasn't completely blocked.*{: .mgl .fs-3 }  
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  

@@ -32,8 +32,8 @@ Some Traits have similar functions which are referred to in shorthand, explained
 {: .content-callout }
 > ### [Custom]
 > 
-> An aspect of this technique can be changed to suit the user’s future needs. Such changes can typically only be made outside of tense situations.  
-> At GM’s discretion however, this rule can be sidestepped with a proper check.
+> An aspect of this technique can be changed to suit the user's future needs. Such changes can typically only be made outside of tense situations.  
+> At GM's discretion however, this rule can be sidestepped with a proper check.
 
 ## Positive Technique Traits
 
@@ -55,7 +55,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > ### *Wild*{: .positive-color} *(+?? FP)*{: .spirit-color } [Target] [Random]
 > 
 > The user tries to attack any enemy they can with this technique, regardless of who it ends up being.  
-> Any potential target that can be reached from the user’s current elevation (Regardless of who’s in front of them) can be targeted, but fate (Be it GM’s call or a dice roll) decides who ends up being targeted.  
+> Any potential target that can be reached from the user's current elevation (Regardless of who's in front of them) can be targeted, but fate (Be it GM's call or a dice roll) decides who ends up being targeted.  
 > This trait can be taken with other [Random] traits.
 >
 > If this technique is on a single-strike technique or a multi-strike technique meant for a single target, it costs *+1 FP*{: .spirit-color }.  
@@ -68,7 +68,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > The user attempts to remove certain targets from the field (Including themselves), even if they are not properly subdued yet.  
 > If this is attempted on non-willing targets, it automatically requires an extra grade of success for every 5 HP they still have, but should it succeed, you may assign any extra grades of success to another target that would now be in range to attempt to remove them as well, up to a maximum of [X] targets.
 >
-> Enemy targets who leave combat this way do not count to potential rewards (Star Points, Coins, Items, # of Enemies KO’ed statistics).
+> Enemy targets who leave combat this way do not count to potential rewards (Star Points, Coins, Items, # of Enemies KO'ed statistics).
 >
 > Depending on how this check is executed narratively, the technique may allow for the targets to travel a certain distance without needing to worry about checks (Such as back to a previously known safe location).
 
@@ -81,4 +81,4 @@ Some Traits have similar functions which are referred to in shorthand, explained
 >
 > The user expends a bit of the energy keeping them tied to the world when using this technique.  
 > When this technique is used, the turns remaining for the summoned champion is reduced by [X].  
-> The technique can’t be used if their number of remaining turns is less than [X], and the champion is immediately de-summoned after the technique if it leads to them having 0 turns left.
+> The technique can't be used if their number of remaining turns is less than [X], and the champion is immediately de-summoned after the technique if it leads to them having 0 turns left.

@@ -391,7 +391,7 @@ contributors:
 > {: .float-right-desktop }
 > 
 > From *Super Mario Bros. Wonder*{: .italic }  
-> Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn’t mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not.
+> Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn't mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not.
 >
 > ***+2 Heart**{: .heart-color}*{: .text-gamma .header-font }  
 > *2 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -459,7 +459,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
 >
-> Enigmatic cloudy creatures, cherbils float using internalized gasses that they release in order to protect themselves. You don’t wanna know where the gas comes from. Trust us.
+> Enigmatic cloudy creatures, cherbils float using internalized gasses that they release in order to protect themselves. You don't wanna know where the gas comes from. Trust us.
 >
 > ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -627,7 +627,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Mario 64*{: .italic }  
 >
-> Gentle giants of the seas and rivers, dorries often drift along, taking in the world as they go. They’re a little awkward on land, but otherwise make for lovely company.
+> Gentle giants of the seas and rivers, dorries often drift along, taking in the world as they go. They're a little awkward on land, but otherwise make for lovely company.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -678,7 +678,7 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Specific Noise)  
-> > *Choose a specific, common sound, such as a cricket’s chirp, thunderclaps, or a bell. Whenever you can hear this sound, your attack is Weakened (2), and you lose any defense points you have, for as long as you can hear the sound (minimum 1 turn).*{: .mgl .fs-3 }
+> > *Choose a specific, common sound, such as a cricket's chirp, thunderclaps, or a bell. Whenever you can hear this sound, your attack is Weakened (2), and you lose any defense points you have, for as long as you can hear the sound (minimum 1 turn).*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -696,7 +696,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Mario & Luigi: Bowser's Inside Story*{: .italic }  
 >
-> Emoglobin are bizarre little antibodies that typically take up important functions in one's body. How they gain larger size, and how they escape their host bodies, is greatly unknown. What is known is that they excel at using their restorative properties to aid those around them. Just.. don’t ask where its healing comes from.
+> Emoglobin are bizarre little antibodies that typically take up important functions in one's body. How they gain larger size, and how they escape their host bodies, is greatly unknown. What is known is that they excel at using their restorative properties to aid those around them. Just.. don't ask where its healing comes from.
 >
 > ***+2 Heart**{: .heart-color }*{: .text-gamma .header-font }  
 > *0 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -772,7 +772,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
 >
-> Distant relatives of dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can’t fix the problem with good vibes.
+> Distant relatives of dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can't fix the problem with good vibes.
 >
 > *Created by: @lonelyazalea*{: .italic .courage-color }
 >
@@ -1091,7 +1091,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Mario Bros. Wonder*{: .italic }  
 >
-> Pipes suffused with Wonder Power, inchworm pipes are often in constant motion. If an inchworm pipe wants to get somewhere, there’s little that can be done to stop it.
+> Pipes suffused with Wonder Power, inchworm pipes are often in constant motion. If an inchworm pipe wants to get somewhere, there's little that can be done to stop it.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color}*{: .text-gamma .header-font }  
 > *1 Power, 1 Defense*{: .text-gamma .header-font }  
@@ -1157,7 +1157,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Mario Bros. Wonder*{: .italic }  
 >
-> Kerpops are distant relatives to goombas. Over time, they’ve adapted their bodies to the harsh volcanic conditions they dwell in, with built-in defense mechanisms for when things get too hot.
+> Kerpops are distant relatives to goombas. Over time, they've adapted their bodies to the harsh volcanic conditions they dwell in, with built-in defense mechanisms for when things get too hot.
 >
 > ***+1 Heart**{: .heart-color}, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1226,7 +1226,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Mario World 2: Yoshi's Island*{: .italic }  
 >
-> Mildes are known to be a cheerful and carefree bunch, not letting much get to them. They’re known for their precise movements and marching, though tend to be a little airheaded… especially when stomped on.
+> Mildes are known to be a cheerful and carefree bunch, not letting much get to them. They're known for their precise movements and marching, though tend to be a little airheaded… especially when stomped on.
 >
 > Created by *@lonelyazalea*{: .italic .courage-color } and *@piyohthegenius*{: .italic .courage-color }
 >
@@ -1679,7 +1679,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
 >
-> Squirpians are a near-extinct race of aliens once trusted with guarding a pure heart. In times since then, they’ve roamed the galaxy with their purpose complete, seeking new meanings for their existence.
+> Squirpians are a near-extinct race of aliens once trusted with guarding a pure heart. In times since then, they've roamed the galaxy with their purpose complete, seeking new meanings for their existence.
 >
 > ***+1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -1747,7 +1747,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Princess Peach: Showtime!*{: .italic }  
 >
-> Theets are patrons of the arts, forming some of the best acting troupes around. Though prone to stage fright, there’s very little that will stop a theet from putting on a good show.
+> Theets are patrons of the arts, forming some of the best acting troupes around. Though prone to stage fright, there's very little that will stop a theet from putting on a good show.
 >
 > ***+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
