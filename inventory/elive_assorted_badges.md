@@ -25,7 +25,7 @@ contributors:
 A list of homebrew Paper Story badges I came up with, complete with my own custom art! Some badges are based on rulesets from other homebrew makers (Or I guess for now just two), so their names will be placed in the badge descriptions to indicate what homebrew you might have to look at in order for it to make sense.
 
 {: .tip-callout }
-> *If the technique uses **Magic**{: .spirit-color } for one of its checks, or would include a specialization in Magic (or something similar such as spells or sorcery), it counts as "Magic-based". This includes techniques done through improvised spells.* ![](assets/images/icons/tipguy.png)
+> *If the technique uses **Magic**{: .spirit-color } for one of its checks, or would include a specialization in Magic (or something similar such as spells or sorcery), it counts as "Magic-based". This includes techniques done through improvised spells.* ![](../assets/images/icons/tipguy.png)
 > {: .icon-right }
 
 ## Badges
