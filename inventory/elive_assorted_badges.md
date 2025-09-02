@@ -35,6 +35,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Qi-Creative*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 250 Coins
@@ -48,6 +49,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Mr. Crafty*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
@@ -60,6 +62,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Street Artist*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -71,6 +74,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *White Magic*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -82,6 +86,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Green Magic*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -93,6 +98,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Black Magic*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -104,6 +110,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Mr. Crafty*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -116,6 +123,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Extra Flare*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -127,6 +135,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Grazing Power*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
@@ -138,6 +147,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Twist Guard*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -149,6 +159,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Fine Together*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -160,6 +171,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Splash Strike*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -171,6 +183,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Sap Slam*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 740 Coins
@@ -182,6 +195,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Shock Smash*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -193,6 +207,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Dark Dunk*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -205,6 +220,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Money Mash*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -216,6 +232,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Blue Magic*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -233,6 +250,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Red Magic*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -246,6 +264,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Quick Assist*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -260,6 +279,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Potent Conserve*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
@@ -271,6 +291,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Weather Report*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -283,12 +304,14 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > 4. Sandstorm
 > > 5. Smog
 > > 6. Snow 
+> > {: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](../assets/images/badges/elive/geo-favour.png)
 >
 > {: .item-inner-callout }
 > > ### *Geo-Favour*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
@@ -300,6 +323,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Crimson Noise*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -313,6 +337,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Stars Beyond*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -324,6 +349,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Gang-Up*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
@@ -337,6 +363,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 >
 > {: .item-inner-callout }
 > > ### *Quick Draw*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
@@ -360,6 +387,7 @@ Keep one thing in mind though: only one MINUS-Badge can take effect at a time.
 >
 > {: .item-inner-callout }
 > > ### *Skill Minus*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*MINUS*{: .label .quirk .header-font }*Skills*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • -1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -371,6 +399,7 @@ Keep one thing in mind though: only one MINUS-Badge can take effect at a time.
 >
 > {: .item-inner-callout }
 > > ### *Feeble Body*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*MINUS*{: .label .quirk .header-font }*Defense*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • -2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
