@@ -91,7 +91,8 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > Negative status effects inflicted on you last for an extra turn. So long as you succeed the check, your Enchantments, Curses and \*Magic-based techniques that inflict status effects automatically gain an extra grade of success.
+> > Negative status effects inflicted on you last for an extra turn.  
+> > So long as you succeed the check, your Enchantments, Curses and \*Magic-based techniques that inflict status effects automatically gain an extra grade of success.
 
 {: .item-callout .item-left }
 > ![](../assets/images/badges/elive/black-magic.png)
@@ -109,13 +110,14 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > ![](../assets/images/badges/elive/gamble-aura.png)
 >
 > {: .item-inner-callout }
-> > ### *Mr. Crafty*{: .fs-6 .header-font }  
+> > ### *Gamble Aura*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > All your techniques with a primary check, that don't already have the Fumble or Lucky-Hit traits, now have Fumble (Harmless, Exhausting) and Lucky-Hit (Strongx2).  
+> > 
 > > The *FP*{: .spirit-color } cost remains unaffected. 
 
 {: .item-callout .item-left }
@@ -186,7 +188,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .stats-badge .header-font }  
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
-> > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 740 Coins
+> > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
 > > By spending *3 FP*{: .spirit-color }, you can treat a single-target technique as if it had Element (Earth) and Drainx3.
 
@@ -213,7 +215,8 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
 > > By spending *3 FP*{: .spirit-color }, you can treat a single-target technique as if it had Element (Dark), and Fearx3. Secondary check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.  
-> > (Idea by *@bigmeatyflaws* {: .italic .courage-color })
+> >
+> > (Idea by *@bigmeatyflaws*{: .italic .courage-color })
 
 {: .item-callout .item-left }
 > ![](../assets/images/badges/elive/money-mash.png)
@@ -240,7 +243,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > When this badge is equipped, specific Actions some enemies can take will have the "Learning" tag (GM Decision), and you will be noted of this when it is used, or if you make a *Knowhow*{: .spirit-color } check.  
 > > When you are affected by this action (Damaged, Healed, Inflicted with ailment, etc.) make a *Knowhow*{: .spirit-color } or *Magic*{: .spirit-color } check:
 > >
-> > ***Great!**{: .great-color }: At the end of combat, the GM will turn the action into a Technique, attached to this individual badge. The Technique can be given Variant (*Knowhow*{: .spirit-color }) or Variant (*Magic*{: .spirit-color }) for free.*{: .mgl .fs-3 }
+> > ***Great!**{: .great-color }: At the end of combat, the GM will turn the action into a Technique, attached to this individual badge. The Technique can be given Variant (**Knowhow**{: .spirit-color }) or Variant (**Magic**{: .spirit-color }) for free.*{: .mgl .fs-3 }
 > >
 > > Only one Technique can be attached to a copy of Blue Magic, and the wearer can choose to overwrite the previous technique attached.  
 > > You do not need to survive combat after succeeding the check for the Technique to be gained.
@@ -374,13 +377,13 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 
 ## MINUS-Badges
 
-*"Nobody’s sure what these things really are. Some have speculated they’re made of Ztar energy, or perhaps from star pieces of comets that tried to deliver a wish of true evil. Whatever the case, wearing ‘em seems to give way for more badges to take effect, darkness giving way to light, or something. Just remember, if you’re gonna wear them, the stars themselves might make sure you pay the toll.."*{: .italic }
+*"Nobody's sure what these things really are. Some have speculated they're made of Ztar energy, or perhaps from star pieces of comets that tried to deliver a wish of true evil. Whatever the case, wearing 'em seems to give way for more badges to take effect, darkness giving way to light, or something. Just remember, if you're gonna wear them, the stars themselves might make sure you pay the toll.."*{: .italic }
 
 MINUS-Badges are special types of badges, effectively their inverse.  
-Each one grants a negative effect, one that’s hard to use in your favor, and each one is more horrid the rarer the badge it's attached to is.  
+Each one grants a negative effect, one that's hard to use in your favor, and each one is more horrid the rarer the badge it's attached to is.  
 In exchange, the badge increases your BP temporarily, perhaps even over your current limit, allowing you to equip more regular badges.
 
-Keep one thing in mind though: only one MINUS-Badge can take effect at a time.
+Keep one thing in mind though: *only one MINUS-Badge can take effect at a time*{: .underlined }.
 
 {: .item-callout .item-left }
 > ![](../assets/images/badges/elive/skill-minus.png)
