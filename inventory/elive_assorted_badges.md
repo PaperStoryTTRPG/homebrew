@@ -272,7 +272,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > This Badge make uses of [Lucy's Partner System]().
+> > This Badge make uses of [Lucy's Partner System]({{ "/other/partner_system" | absolute_url }}).
 > >
 > > As an action, choose a technique from a partner currently on standby and spend *SP*{: .courage-color } as if the technique had Alt-Cost (*SP*{: .courage-color }) (At least *2 SP*{: .courage-color }).  
 > > They quickly swap in and out, performing the technique.
@@ -357,7 +357,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > > ![](../assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](../assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
 > >
-> > This Badge make uses of [Lucy's Partner System]().
+> > This Badge make uses of [Lucy's Partner System]({{ "/other/partner_system" | absolute_url }}).
 > > 
 > > When in battle, and you're the only player character, the partner this badge is attached to may enter the battle, as well as your current partner. (P version applies to up to 3 partners).
 

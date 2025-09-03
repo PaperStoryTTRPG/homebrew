@@ -123,7 +123,7 @@ contributors:
 > > Tool  
 > > *Flowery*{: .alt-grey-line }  
 > > Alt-Cost (*SP*{: .courage-color})    
-> > *Overclock [[Elive]]()*{: .alt-grey-line }  
+> > *Overclock [[Elive]]({{ "/techniques/elive_assorted_tech_traits" | absolute_url }})*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Split on Flowery Techniques.
 >
@@ -526,7 +526,7 @@ contributors:
 > > *Added Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > All  
-> > *Kit [[Elive]]()*{: .alt-grey-line }  
+> > *Kit [[Elive]]({{ "/techniques/elive_assorted_tech_traits" | absolute_url }})*{: .alt-grey-line }  
 > > Ranged  
 > > ***Optional**{: .underlined }: Variant (**Perform**{: .courage-color }) or Variant (**Magic**{: .spirit-color }) on Ranged attacks.*{: .mgl .fs-3 }  
 > > *Minion*{: .alt-grey-line }  

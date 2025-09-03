@@ -124,7 +124,7 @@ A Player Character can only save on *FP Costs*{: .spirit-color } from a number o
 
 ## Bonus to Basic Rank's Power
 
-A Player Character gains a bonus to their Power as they Level Up (+1 at 5th Level, +2 at 10th, +3 at 15th Level, etc). The same is true for Partners as well, gaining +1 to their base Power whenever they Rank Up, not matter what that base Power initially was.
+A Player Character gains a bonus to their Power as they Level Up (+1 at 5th Level, +2 at 10th, +3 at 15th Level, etc). The same is true for Partners as well, gaining +1 to their base Power whenever they Rank Up, no matter what that base Power initially was.
 
 ## *Maximum HP*{: .heart-color } based on perceived Role
 
