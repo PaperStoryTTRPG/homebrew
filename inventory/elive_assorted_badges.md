@@ -373,7 +373,7 @@ A list of homebrew Paper Story badges I came up with, complete with my own custo
 > >
 > > Allows you to change your gear in battle as a free action.
 > >
-> > When Hustled, using different gear techniques does not increase the required grades of success during your turn’s actions (Other actions do, and using techniques from previously equipped gear this turn still increases the required grades).
+> > When Hustled, using different gear techniques does not increase the required grades of success during your turn's actions (Other actions do, and using techniques from previously equipped gear this turn still increases the required grades).
 
 ## MINUS-Badges
 

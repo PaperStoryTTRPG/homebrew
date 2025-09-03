@@ -1,12 +1,16 @@
 - id: mei
   name: Meï
   avatar: mei.png
-  bio: The original maintainer of this wiki-blog ! Feel free to contact him for any technical questions !
+  bio: The original maintainer of this wiki-blog! Feel free to contact them for any technical questions!
 - id: flaws
   name: Flaws
   avatar: flaws.png
-  bio: Idk I'll ask them
+  bio: ...
 - id: elive
   name: Elive
   avatar: elive.png
+  bio: ...
+- id: lucy
+  name: Lucy
+  avatar: lucy.png
   bio: ...
