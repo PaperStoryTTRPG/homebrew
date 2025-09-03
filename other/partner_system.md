@@ -31,13 +31,13 @@ On top of this, their Level is referred to as a Rank and can only reach as high 
 > > ### *Basic Rank*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > >
-> > ![](assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 2
+> > ![](../assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 2
 > >
-> > ![](assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 4
+> > ![](../assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 4
 > >
-> > ![](assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +0
+> > ![](../assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +0
 > >
-> > ![](assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
+> > ![](../assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
 > > - DPS: *10*{: .heart-color }
 > > - Tank: *15*{: .heart-color }
 > > - Support: *10*{: .heart-color }
@@ -49,13 +49,13 @@ On top of this, their Level is referred to as a Rank and can only reach as high 
 > > ### *Super Rank*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > >
-> > ![](assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 3
+> > ![](../assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 3
 > >
-> > ![](assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 5
+> > ![](../assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 5
 > >
-> > ![](assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +1
+> > ![](../assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +1
 > >
-> > ![](assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
+> > ![](../assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
 > > - DPS: *15*{: .heart-color }
 > > - Tank: *25*{: .heart-color }
 > > - Support: *20*{: .heart-color }
@@ -67,13 +67,13 @@ On top of this, their Level is referred to as a Rank and can only reach as high 
 > > ### *Ultra Rank*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > >
-> > ![](assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 4
+> > ![](../assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 4
 > >
-> > ![](assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 6
+> > ![](../assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 6
 > >
-> > ![](assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +2
+> > ![](../assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +2
 > >
-> > ![](assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
+> > ![](../assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
 > > - DPS: *25*{: .heart-color }
 > > - Tank: *35*{: .heart-color }
 > > - Support: *30*{: .heart-color }
@@ -85,13 +85,13 @@ On top of this, their Level is referred to as a Rank and can only reach as high 
 > > ### *Miracle Rank*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > >
-> > ![](assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 4
+> > ![](../assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 4
 > >
-> > ![](assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 7
+> > ![](../assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 7
 > >
-> > ![](assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +3
+> > ![](../assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +3
 > >
-> > ![](assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
+> > ![](../assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
 > > - DPS: *35*{: .heart-color }
 > > - Tank: *45*{: .heart-color }
 > > - Support: *40*{: .heart-color }
@@ -103,13 +103,13 @@ On top of this, their Level is referred to as a Rank and can only reach as high 
 > > ### *Max Rank*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > >
-> > ![](assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 4
+> > ![](../assets/images/icons/starpower-alt.png){: .inline-icon } Known Techniques: 4
 > >
-> > ![](assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 8
+> > ![](../assets/images/icons/negative-traits.png){: .inline-icon } # of Negative Traits per Technique: 8
 > >
-> > ![](assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +4
+> > ![](../assets/images/icons/power.png){: .inline-icon } Bonus to Basic Rank's Power: +4
 > >
-> > ![](assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
+> > ![](../assets/images/icons/heart.png){: .inline-icon } *Maximum HP*{: .heart-color } based on perceived Role:
 > > - DPS: *45*{: .heart-color }
 > > - Tank: *55*{: .heart-color }
 > > - Support: *50*{: .heart-color }

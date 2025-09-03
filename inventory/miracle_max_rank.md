@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Elive's Assorted Badges
+title: Max & Miracle Gear
 summary: ""
-permalink: /inventory/elive_assorted_badges
+permalink: /inventory/max_miracle_gear
 parent: Items/Gear/Badges
 tags:
-    - badges
+    - gear
 contributors:
-    - elive
+    - lucy
 ---
+
+# Max & Miracle Gear
+{: .no_toc }
 
 Some games sometimes need to go higher when it comes to power levels, and for this reason, Lucy created some new Ranks of Gear to go beyond Ultra, called *Miracle*{: .miracle-color } and *Max*{: .max-color }.  
 

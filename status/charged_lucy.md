@@ -13,6 +13,8 @@ contributors:
 # Charged
 {: .no_toc }
 
+A Status trying to replicate better the effect of the "Charge" abilities seen in Paper Mario games than the usual "Boosted" Status.
+
 {: .content-callout }
 > ![](../assets/images/status/charged.png)
 > {: .float-right }

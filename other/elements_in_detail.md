@@ -27,7 +27,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/fire.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Fire
 > 
 > {: .content-callout }
@@ -42,7 +42,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/ice.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Ice
 > 
 > {: .content-callout }
@@ -57,7 +57,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/shock.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Shock
 > 
 > {: .content-callout }
@@ -72,7 +72,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/water.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Water
 >
 > {: .content-callout }
@@ -87,7 +87,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/air.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Air
 > 
 > {: .content-callout }
@@ -102,7 +102,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/blast.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Blast
 > 
 > {: .content-callout }
@@ -117,7 +117,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/earth.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Earth
 > 
 > {: .content-callout }
@@ -132,7 +132,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/goop.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Goop
 >
 > {: .content-callout }
@@ -147,7 +147,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/poison.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Poison
 >
 > {: .content-callout }
@@ -162,7 +162,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/light.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Light
 >
 > {: .content-callout }
@@ -177,7 +177,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/shadow.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Shadow
 >
 > {: .content-callout }
@@ -192,7 +192,7 @@ If you really wanted Element (Clown), your Gamemaster can allow it if they wish.
 
 {: .content-callout }
 > ![](../assets/images/elements/star.png)
-> {: .float-right }
+> {: .float-right .fifteen-percent-size }
 > ## Star
 >
 > {: .content-callout }
