@@ -21,7 +21,7 @@ Some games sometimes need to go higher when it comes to power levels, and for th
 > {: .item-inner-callout }
 > > ### *Miracle Gear*{: .fs-6 .header-font }  
 > > {: .no_toc }
-> > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 1200 Coins
+> > ![](../assets/images/icons/coin-small.png){: .inline-icon } • Costs 1200 Coins
 > >
 > > - Grants either +3 Power (when wielded as a Weapon), +3 Defense (when carried as a Shield or worn as Armour), or +3 to a Stat.
 > > - Adds +3d6 to appropriate checks.
@@ -37,7 +37,7 @@ Some games sometimes need to go higher when it comes to power levels, and for th
 > {: .item-inner-callout }
 > > ### *Max Gear*{: .fs-6 .header-font }  
 > > {: .no_toc }
-> > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 1500+ Coins
+> > ![](../assets/images/icons/coin-small.png){: .inline-icon } • Costs 1500+ Coins
 > >
 > > - Grants the user a specific ability related to the Gear decided upon by the GM. If made by a Player through Crafting, they work with the GM to make an appropriate ability.
 > > - Grants either +3 Power (when wielded as a Weapon), +3 Defense (when carried as a Shield or worn as Armour), or +3 to a Stat.
