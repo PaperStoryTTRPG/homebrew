@@ -797,7 +797,7 @@ contributors:
 > >
 > > Alt-Cost (*HP*{: .heart-color }), Indirect  
 > > *Charm*{: .alt-grey-line }  
-> > Counter (Self)  
+> > Dismiss  
 > > *Daze x2*{: .alt-grey-line }
 > > 
 >
@@ -890,6 +890,7 @@ contributors:
 > > *+ Crafts (Bamboo)*{: .spirit-color }  
 > > *+ Trickery (Camouflage)*{: .spirit-color }  
 > > *+ Steady (Balance)*{: .courage-color }  
+> > Carrier
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -1518,7 +1519,8 @@ contributors:
 > > *+ Magic (Skill Substitution)*{: .spirit-color }  
 > > *+ Cheer (Assist)*{: .courage-color }  
 > > Construct (Lifelike)  
-> > Fly
+> > Fly  
+> > Hover
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -1664,7 +1666,7 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > N/A
+> > Handless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
