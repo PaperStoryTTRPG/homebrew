@@ -80,7 +80,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -133,7 +134,7 @@ contributors:
 >
 > Bonnetters travel the world wide via airships of their likeness. They have an impeccable sense of fashion, and none would dare chastise a bonneeter's opinion on attire.  
 >
-> Credit to *@deuceblitz**{: .courage-color } and *@lucydndprincess*{: .courage-color } on Discord for help with the capture State.
+> Credit to *@deuceblitz*{: .courage-color } and *@lucydndprincess*{: .courage-color } on Discord for help with the capture State.
 >
 > ***+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
@@ -148,7 +149,7 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > N/A
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Other Traits*{: .text-gamma .header-font }  
@@ -238,50 +239,10 @@ contributors:
 > >
 > > Flowery  
 > > *Overrun*{: .alt-grey-line }  
-> > Piercing  
+> > Reach  
 > > *Selective, Indirect*{: .alt-grey-line }  
 > >
 >
-
-{: .specie-callout }
-> ## Bristle
->
-> ![](../assets/images/species/bristle.webp)
-> {: .float-right-desktop }
-> 
-> From *Paper Mario: The Thousand Year Door*{: .italic }
-> 
-> Bristles are autonomous sentinels, set to keep watch over the ruins of fallen civilizations. They delight in carrying out their duty, taking glee in fending off outsiders and threats.
-> 
-> ***+1 Heart**{: .heart-color}, **+1 Courage**{: .courage-color}*{: .text-gamma .header-font }  
-> *1 Power, 2 Defense*{: .text-gamma .header-font }  
->
-> {: .specie-pros-callout }
-> > *Pros*{: .text-gamma .header-font }  
-> > *+ Notice (Keep Watch)*{: .spirit-color }  
-> > *+ Trickery (Camouflage)*{: .spirit-color }  
-> > *+ Steady (Balance)*{: .courage-color }  
-> > Construct  
-> > Contact  
-> > *Your Contact trait can protect you from tool-based melee attacks.*{: .mgl .fs-3 }  
-> > Immune (Fire)
->
-> {: .specie-cons-callout }
-> > *Cons*{: .text-gamma .header-font }  
-> > Weakness (Blast, Quake) 
-> > *You are flipped over, and your Defense is negated for the duration. This leaves you completely Stunned (6) for 2 turns. You still retain your contact trait, though you are no longer protected from tool-based melee attacks.*{: .mgl .fs-3 }
-> > Handless
->
->
-> {: .specie-inner-callout }
-> > *Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Counter  
-> > *Disarm x2*{: .alt-grey-line }  
-> > Piercing  
-> > *Tool (Built-in)*{: .alt-grey-line }  
-> >
-> 
 
 {: .specie-callout }
 > ## Brock
@@ -346,7 +307,7 @@ contributors:
 > > Aerial  
 > > *Repeat*{: .alt-grey-line }  
 > > Sequential  
-> > *Tool (Ranged)*{: .alt-grey-line }  
+> > *Tool*{: .alt-grey-line }  
 > >
 >
 
@@ -367,12 +328,13 @@ contributors:
 > > *+ Athletics (Guard)*{: .heart-color }  
 > > *+ Cheer (Relaxation)*{: .courage-color }  
 > > *+ Perform (Instruments)*{: .courage-color }  
-> > Aquatic
+> > Adapted (Aquatic)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Earth)  
 > > *You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -475,7 +437,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -522,6 +485,37 @@ contributors:
 >
 
 {: .specie-callout }
+> ## Concordian
+>
+> ![](../assets/images/species/concordian.png)
+> {: .float-right-desktop }
+> The friendly folk of Concordia seek harmony above all else. These fine folk are some of the most cooperative bunch you’ll ever meet.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Electronics)*{: .spirit-color }  
+> > *+ Cheer (Motivation)*{: .courage-color }  
+> > *+ Persuade (Kindness)*{: .courage-color }  
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Boost (Any)  
+> > *Lengthen x2*{: .alt-grey-line }  
+> > Shared  
+> > *Tool*{: .alt-grey-line }  
+> >
+> > *Optional*{: .underlined }: Element (Shock) on Tool or Ranged techniques.
+>
+
+{: .specie-callout }
 > ## Crab
 >
 > ![](../assets/images/species/crab.webp)
@@ -538,7 +532,7 @@ contributors:
 > > *+ Aim (Fling)*{: .heart-color }  
 > > *+ Guard (Melee)*{: .heart-color }  
 > > *+ Notice (Underwater)*{: .spirit-color }  
-> > Aquatic
+> > Adapted (Aquatic)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -548,7 +542,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Counter 
+> > Counter  
 > > *Disarm x2*{: .alt-grey-line }  
 > > Piercing  
 > > *Throw*{: .alt-grey-line }  
@@ -608,7 +602,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > N/A
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -638,17 +633,18 @@ contributors:
 > > *+ Coordination (Carrying)*{: .heart-color }  
 > > *+ Notice (Underwater)*{: .spirit-color }  
 > > Immune (Poison)  
-> > Aquatic  
+> > Adapted (Aquatic)  
 > > Carrier (In Water)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Overrun  
+> > Indirect  
 > > *Reach*{: .alt-grey-line }  
 > > Selective  
 > > *Swap x2*{: .alt-grey-line }  
@@ -707,11 +703,13 @@ contributors:
 > > *+ Knowhow (Biology)*{: .spirit-color }  
 > > *+ Steady (VS Status)*{: .courage-color }  
 > > Hover  
-> > Efficient (*First Aid*{: .heart-color })
+> > Efficient (*First Aid*{: .heart-color })  
+> > Adapted (Bodies)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -747,6 +745,7 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless  
+> > Legless  
 > > Weakness (Underfoot)  
 > > *You are Dazed (1) for a number of turns equal to the damage dealt, and you lose your active power-up if you have one.*{: .mgl .fs-3 }
 >
@@ -761,7 +760,7 @@ contributors:
 > > *Lingering x2*{: .alt-grey-line }  
 > > Indirect  
 > > *Ranged, Element (Any, related to chosen Power-Up or Item)*{: .alt-grey-line }  
-> > Aquatic, Carrier, or Hover (as a Personal Trait)
+> > Adapted (Aquatic), Carrier, or Hover (as a Personal Trait)
 > >
 >
 
@@ -801,6 +800,40 @@ contributors:
 > > Counter (Self)  
 > > *Daze x2*{: .alt-grey-line }
 > > 
+>
+
+{: .specie-callout }
+> ## Fractone
+>
+> ![](../assets/images/species/fractone.png)
+> {: .float-right-desktop }
+> Made of a strange material called Fractonium, these crystal beings from the Underground World can break and reform their bodies seemingly at will. They have a habit of copying the mannerisms of those around them.
+>
+> ***+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Knowhow (Tattle)*{: .spirit-color }  
+> > *+ Perform (Vocal Mimicry)*{: .courage-color }  
+> > *+ Steady (Shape-Change)*{: .courage-color }  
+> > Construct (Lifelike)  
+> > Mimicry  
+> > Resilient  
+> > Sinker
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > Handless
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Burst x2  
+> > *Counter*{: .alt-grey-line }  
+> > Empower  
+> > *Spillover*{: .alt-grey-line }  
+> >
 >
 
 {: .specie-callout }
@@ -932,6 +965,7 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless  
+> > Legless  
 > > Weakness (Water)  
 > > *You take double damage. If this Technique wouldn't usually deal damage, it deals 2 Piercing damage. Your Attack is Weakened (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
 >
@@ -997,9 +1031,9 @@ contributors:
 > > *+ Athletics (Propel)*{: .heart-color }  
 > > *+ Aim (Spray)*{: .heart-color }  
 > > *+ Poise (Etiquette)*{: .courage-color }  
-> > Aquatic 
-> > Fly
-> > Hover
+> > Adapted (Aquatic)  
+> > Fly  
+> > Hover  
 > > *You cannot use your fly or hover traits if you do not have access to water.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
@@ -1039,7 +1073,7 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > N/A
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1107,7 +1141,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1214,9 +1249,41 @@ contributors:
 > >
 > > All  
 > > *Roulette (**-2 FP**{: .spirit-color } on one Roulette Slot)*{: .alt-grey-line }  
-> > Lucky Hit, Fumble (-3 FP on the Lucky Slot)  
+> > Lucky Hit, Fumble (*-3*{: .spirit-color } FP on the Lucky Slot)  
 > > *Coin Toss (**-3 FP**{: .spirit-color } on one Coin Slot)*{: .alt-grey-line }  
 > >
+>
+
+{: .specie-callout }
+> ## Lochlady
+>
+> ![](../assets/images/species/lochlady.png)
+> {: .float-right-desktop }
+> The gorgeous merfolk of Lake Lamode are most well known for their seamstresses. Even the youngest know how to drive a stitch, and the end result is almost as dazzling as their looks.
+>
+> ***+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> *1 Power, 0 Defense*{: .text-gamma .header-font }  
+>
+> {: .specie-pros-callout }
+> > *Pros*{: .text-gamma .header-font }  
+> > *+ Athletics (Swimming)*{: .heart-color }  
+> > *+ Crafts (Clothing)*{: .spirit-color }  
+> > *+ Perform (Presentation)*{: .courage-color }  
+> > Adapted (Water)
+>
+> {: .specie-cons-callout }
+> > *Cons*{: .text-gamma .header-font }  
+> > N/A
+>
+> {: .specie-inner-callout }
+> > *Tech Defaults*{: .text-gamma .header-font }  
+> >
+> > Bestow  
+> > *Charm*{: .alt-grey-line }  
+> > Daze x2  
+> > *Lengthen x2*{: .alt-grey-line }  
+> >
+> > *Optional*{: .underlined }: Variant (*Perform*{: .courage-color }) on Charm and Daze techniques.
 >
 
 {: .specie-callout }
@@ -1240,8 +1307,8 @@ contributors:
 > > *+ Athletics (Popping)*{: .heart-color }  
 > > *+ Coordination (Marching)*{: .heart-color }  
 > > *+ Steady (Poise)*{: .courage-color }  
-> > Clone (Copies)
-> > *You may use *Athletics*{: .heart-color } in order to create a copy.*{: .mgl .fs-3 }
+> > Clone (Copies)  
+> > *You may use **Athletics**{: .heart-color } in order to create a copy.*{: .mgl .fs-3 }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -1280,6 +1347,7 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless  
+> > Legless  
 > > Weakness (Disoriented)  
 > > *The Level and Duration of any Disoriented inflicted on you is doubled.*{: .mgl .fs-3 }
 >
@@ -1348,7 +1416,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1453,7 +1522,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1528,6 +1598,7 @@ contributors:
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Sudden Light)  
 > > *You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1710,7 +1781,7 @@ contributors:
 >
 > ![](../assets/images/species/talking_flower.webp)
 > {: .float-right-desktop }
-> From *Super Paper Mario*{: .italic }  
+> From *Super Mario Odyssey*{: .italic }  
 >
 > These Flower Kingdom fellows love nothing more than talking. They often travel far and wide, just to have a conversation partner.
 >
@@ -1728,7 +1799,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1798,7 +1870,8 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Handless, or Weakness (Crushing)  
-> > *You take +2 damage and fall to the ground. This leaves you Dazed (1) for a number of turns equal to the damage dealt.*{: .mgl .fs-3 }
+> > *You take +2 damage and fall to the ground. This leaves you Dazed (1) for a number of turns equal to the damage dealt.*{: .mgl .fs-3 }  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1833,7 +1906,8 @@ contributors:
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Shock)  
-> > *You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+> > *You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -1902,7 +1976,8 @@ contributors:
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Handless
+> > Handless  
+> > Legless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -2036,7 +2111,8 @@ contributors:
 > > *+ Knowhow (Medicine)*{: .spirit-color }  
 > > *+ Trickery (Shenanigans)*{: .spirit-color }  
 > > *+ Bully (Weaken)*{: .courage-color }  
-> > Clone (Copies)
+> > Clone (Copies)  
+> > Adapted (Bodies)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
