@@ -1,0 +1,1115 @@
+{"0": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Big Meaty Book of Races",
+    "content": ". | Armad | Baddie Box | Blockstepper | Bonnetter | Boomboxer | Bramball | Brock | Broodal | Bubblainian | Bulrush | Cataquack | Cherbil | Coconutter | Concordian | Crab | Cragnon | Cursya | Dorrie | Dragon | Emoglobin | Fake Block | Floro Sapien | Fractone | Fronk | Gamboo | Gearmo | Gooble | Gotchawrench | Gushen | Gusty | Honeybee | Inchworm Pipe | Jibberjay | Kerpop | Li'l Oink | Lochlady | Milde | Mister I | New Donker | Phanto | Pigarithm | Pi'illo | Pixl | Poplin | Portrait Ghost | Sammer Guy | Steam Gardener | Shiverian | Shroob | Squirpian | Talking Flower | Theet | Tiki | Topman | Tostarenan | Tox Box | Tsubon | Twilighter | Uproot | Virus | Volbonan | Waddlewing | Whittle | . ",
+    "url": "/homebrew/species/big_meaty_book_of_races",
+    
+    "relUrl": "/species/big_meaty_book_of_races"
+  },"1": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Armad",
+    "content": ". From Super Mario Bros. Wonder . These hardy desert wanderers stomp around in search of water. They live long lives, and have longer memories to go with it. +2 Heart 1 Power, 1 Defense . Pros + Athletics (Rolling) + Knowhow (Desert) + Knowhow (History) . Cons Handless Weakness (Aerial) You automatically retract into your shell; This leaves you completely Stunned (6) for the next 2 turns. If you are attacked from the front during this time, you knock into the ally behind you, dealing 2 damage to them, and ending your Stunned status. Tech Defaults . Boost (Defense) Indirect Secure Simple . Optional: Variant (Athletics - Primary Only) on Indirect attacks. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#armad",
+    
+    "relUrl": "/species/big_meaty_book_of_races#armad"
+  },"2": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Baddie Box",
+    "content": ". From Super Mario 3D Land . These bizarre blocks are capable of continuously conjuring enemies from within themselves. They have been seen conjuring other objects as well, but mooks and minions appear to be their specialty. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Guard (Melee) + Magic (Conjuring) + Steady (VS Status) Efficient (Minions) . Cons Handless Legless . Tech Defaults . Boost (Attack) Indirect Minion Weaken . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#baddie-box",
+    
+    "relUrl": "/species/big_meaty_book_of_races#baddie-box"
+  },"3": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Blockstepper",
+    "content": ". From Super Mario 3D World . Blocksteppers are nothing if not team players. Always marching at least in pairs, you'd be hard pressed to find a blockstepper without at least one staunch ally by their side. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Coordination (Marching) + Notice (Hiding) + Cheer (Rally Together) . Cons Handless . Tech Defaults . Boost (Any) Minion (Blocksteppers) Repeat Shared . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#blockstepper",
+    
+    "relUrl": "/species/big_meaty_book_of_races#blockstepper"
+  },"4": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bonnetter",
+    "content": ". From Super Mario Odyssey . Bonnetters travel the world wide via airships of their likeness. They have an impeccable sense of fashion, and none would dare chastise a bonneeter's opinion on attire. Credit to @deuceblitz and @lucydndprincess on Discord for help with the capture State. +1 Spirit 1 Power, 0 Defense . Pros + Crafts (Vehicles) or + Crafts (Headwar) + Knowhow (Style) + Persuade (Sales) Hover . Cons Legless . Other Traits State (Capture) By spending 2 FP, you can attempt to possess an enemy. This is considered a Charm technique that uses Athletics. An enemy Charmed in this way takes your place in combat, and you must use your action to maintain the Charm. While you have an enemy charmed in this way, any damage the enemy would take is inflicted on you instead. You can maintain this Charm for a number of turns per grade of success. Nice!: 1 turn Good!: 2 turns Great!: 3 turns Wonderful!: 4 turns Excellent!: 5 turns Unbelievable!: 6 turns . Tech Defaults . Aerial Daze x2 Disorient Throw . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bonnetter",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bonnetter"
+  },"5": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Boomboxer",
+    "content": ". From Super Paper Mario . These bizarre creatures have boombox-like protrusions sticking out of their heads. It's unclear if they make loud noises out of self-defense or because they like it, but they make good companions if you can handle their sudden outbursts. Created by @piyohthegenius . +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Notice (Noise) + Bully (Deafening) + Perform (Music) . Cons Weakness (Blast) You take +2 damage and are Stunned (1) for the number of turns equal to the damage taken. Tech Defaults . Burst Element (Sound) Piercing Ranged . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#boomboxer",
+    
+    "relUrl": "/species/big_meaty_book_of_races#boomboxer"
+  },"6": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bramball",
+    "content": ". From New Super Mario Bros. Wii . The humble bramball strolls from place to place, not paying much mind to what's in its way, or where it's going. Many would describe a bramball as amicable, though not much for conversation, and being marvelous helps when in need of a quick pick-me-up. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Coordination (Stomping) + Knowhow (Flora) + Cheer (FP) Contact The attacker takes 1 damage, and you make a Steady check; the attacker is Dazed for 1 turn per Grade of Success. Cons Handless Weakness (Aerial, Underfoot) Aerial and Underfoot attacks ignore your Contact trait . Tech Defaults . Flowery Overrun Reach Selective, Indirect . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bramball",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bramball"
+  },"7": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Brock",
+    "content": ". From Mario &amp; Luigi: Bowser's Inside Story . Brocks are best described as hardy and astute. Even the most humble of brocks know how to pitch a product. As such, many do work as merchants and salesmen, and have the bulk to keep their wares safe. +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Guard (Ranged) + Persuade (Sales) + Steady (Etiquette) 1 Resist (Ranged) + ½ starting coins . Cons Weakness (Underfoot) You are Dazed (1) for a number of turns equal to the damage dealt, and lose 1 coin per point of damage. Tech Defaults . Alternative (Coins) Boost (Defense) Charm Hearty x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#brock",
+    
+    "relUrl": "/species/big_meaty_book_of_races#brock"
+  },"8": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Broodal",
+    "content": ". From Super Mario Odyssey . These brutal snobs come from the moon, and hold a reputation for their excellent sense of fashion and decor. Their bark can be just as bad, if not worse, than their bite. And a broodal would NEVER be caught dead without a stylish outfit, armed to the teeth with weaponry. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Jump) + Knowhow (High Society) + Steady (Etiquette) . Cons N/A . Tech Defaults . Aerial Repeat Sequential Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#broodal",
+    
+    "relUrl": "/species/big_meaty_book_of_races#broodal"
+  },"9": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bubblainian",
+    "content": ". From Super Mario Odyssey . These laid-back gastropods are all about one thing: taking it easy. Relaxation is the motto of the bubblainians, and if something comes to disturb their peace, then they'll put together all their resources to return things to a carefree calm. +2 Courage 1 Power, 1 Defense . Pros + Athletics (Guard) + Cheer (Relaxation) + Perform (Instruments) Adapted (Aquatic) . Cons Weakness (Earth) You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken. Legless . Tech Defaults . Allies Boost (Defense) Charm Flowery . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bubblainian",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bubblainian"
+  },"10": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Bulrush",
+    "content": ". From Super Mario Bros. Wonder Bulrush are typically placid beasts roaming the grasslands of the world. But placid doesn't mean harmless! They charge at each other as a greeting, which often leads many to be on the pointy end of their horns, warranted or not. +2 Heart 2 Power, 0 Defense . Pros + Athletics (Charge) + Guard (Melee) + Bully (Shove) . Cons Weakness (Charm/Confuse/Provoke) The Level and Duration of any of these Statuses inflicted on you is doubled. Tech Defaults . Piercing Overrun Spillover Stun . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#bulrush",
+    
+    "relUrl": "/species/big_meaty_book_of_races#bulrush"
+  },"11": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Cataquack",
+    "content": ". From Super Mario Sunshine . Cataquacks live idle lives, primarily on the beaches of tropical vistas. Notably, the closer their coloration is to red, the more aggressive they tend to be. Otherwise, they don\"t often go looking for trouble, unless it brings itself to their proverbial front door. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Run) + Athletics (Flipping) + Bully (Shove) . Cons Handless Weakness (Water) You are flipped over, Dazed (1) for a number of turns equal to the damage dealt. Tech Defaults . Launch Sequential Throw Underfoot . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#cataquack",
+    
+    "relUrl": "/species/big_meaty_book_of_races#cataquack"
+  },"12": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Cherbil",
+    "content": ". From Super Paper Mario . Enigmatic cloudy creatures, cherbils float using internalized gasses that they release in order to protect themselves. You don't wanna know where the gas comes from. Trust us. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Cuisine) + Knowhow (Intrigue) + Bully (Disgust) Hover Immune (Gases) Gas-based attacks and effects have no effect on you. Cons Handless Legless . Tech Defaults . Aerial Daze x2 Lingering x2 Stun . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#cherbil",
+    
+    "relUrl": "/species/big_meaty_book_of_races#cherbil"
+  },"13": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Coconutter",
+    "content": ". From Mario &amp; Luigi: Partners in Time . Coconutters live deep in jungles and tropics, fostering and growing nature around them. They don\"t often take kindly to trespassers! Credit to \"Fernikart57\" on DeviantArt for the art. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Crafts (Tools) + Knowhow (Nature) + Perform (Chanting) . Cons Weakness (Fire) You take +2 damage and suffer from a Lingering burn, lasting a number of turns equal to the damage taken. Tech Defaults . Hearty x2 Lingering (Poison) Terrain (Rain) Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#coconutter",
+    
+    "relUrl": "/species/big_meaty_book_of_races#coconutter"
+  },"14": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Concordian",
+    "content": ". The friendly folk of Concordia seek harmony above all else. These fine folk are some of the most cooperative bunch you’ll ever meet. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Electronics) + Cheer (Motivation) + Persuade (Kindness) . Cons N/A . Tech Defaults . Boost (Any) Lengthen x2 Shared Tool . Optional: Element (Shock) on Tool or Ranged techniques. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#concordian",
+    
+    "relUrl": "/species/big_meaty_book_of_races#concordian"
+  },"15": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Crab",
+    "content": ". From Mario Bros. Sidesteppers, Huckits, Crabbers… crabs are plentiful across the world, going by many names. Easily agitated, one would be a fool to end up on the pointed part of their claws. +2 Heart 1 Power, 1 Defense . Pros + Aim (Fling) + Guard (Melee) + Notice (Underwater) Adapted (Aquatic) . Cons Weakness (Blast, Quake) You are flipped over, leaving you completely Stunned (6) for the next 2 turns. Your Defense is negated during this time. Tech Defaults . Counter Disarm x2 Piercing Throw . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#crab",
+    
+    "relUrl": "/species/big_meaty_book_of_races#crab"
+  },"16": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Cragnon",
+    "content": ". From Super Paper Mario . These technologically advanced cavemen have an odd way of speaking. Though their speech isn't as intriguing as their Cragnology. Being masters of influencing rock to carry messages and signals, they've created a variety of programs to entertain themselves when not on the hunt. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Coordination (Weapons) + Knowhow (Rocks) or + Notice (Tracking) + Perform (Acting) . Cons N/A . Tech Defaults . Boost (Defense) Daze x2 Strike-Through Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#cragnon",
+    
+    "relUrl": "/species/big_meaty_book_of_races#cragnon"
+  },"17": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Cursya",
+    "content": ". From Super Paper Mario . These gooey terrors are chock-full of cursed energy. Even just grazing one can be enough to stir up some bad luck! . +2 Spirit 1 Power, 0 Defense . Pros + Guard (Melee) + Magic (Curses) + Bully (Weaken) . Cons Handless Legless . Tech Defaults . Counter Stun Tutor (May not have any positive traits) Weaken (Any) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#cursya",
+    
+    "relUrl": "/species/big_meaty_book_of_races#cursya"
+  },"18": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Dorrie",
+    "content": ". From Super Mario 64 . Gentle giants of the seas and rivers, dorries often drift along, taking in the world as they go. They're a little awkward on land, but otherwise make for lovely company. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Swim) + Coordination (Carrying) + Notice (Underwater) Immune (Poison) Adapted (Aquatic) Carrier (In Water) . Cons Handless Legless . Tech Defaults . Indirect Reach Selective Swap x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#dorrie",
+    
+    "relUrl": "/species/big_meaty_book_of_races#dorrie"
+  },"19": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Dragon",
+    "content": ". From Paper Mario 64 . Dragons are fearsome creatures, holding sway over powerful breath attacks, and commanding personalities. Being in the good graces of a dragon can be one of the strongest boons anyone can receive. +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Athletics (Fly) + Notice (Treasure) + Bully (Assert Self) Carrier Fly . Cons Weakness (Specific Noise) Choose a specific, common sound, such as a cricket's chirp, thunderclaps, or a bell. Whenever you can hear this sound, your attack is Weakened (2), and you lose any defense points you have, for as long as you can hear the sound (minimum 1 turn). Tech Defaults . Burst Drain x2 Element (Any, defined at character creation) Quake . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#dragon",
+    
+    "relUrl": "/species/big_meaty_book_of_races#dragon"
+  },"20": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Emoglobin",
+    "content": ". From Mario &amp; Luigi: Bowser's Inside Story . Emoglobin are bizarre little antibodies that typically take up important functions in one's body. How they gain larger size, and how they escape their host bodies, is greatly unknown. What is known is that they excel at using their restorative properties to aid those around them. Just.. don't ask where its healing comes from. +2 Heart 0 Power, 0 Defense . Pros + Heal (First Aid) + Knowhow (Biology) + Steady (VS Status) Hover Efficient (First Aid) Adapted (Bodies) . Cons Handless Legless . Tech Defaults . Boost Dismiss Group Hearty x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#emoglobin",
+    
+    "relUrl": "/species/big_meaty_book_of_races#emoglobin"
+  },"21": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Fake Block",
+    "content": ". From Super Mario 3D Land . Sometimes, a block containing a power-up becomes suffused with the power in the item. This gives the block a spark of life, allowing it to move and use its powers to its own benefit. +2 Courage 1 Power, 0 Defense . Pros + Crafts (Power-Ups) + Trickery (Blend In) + Steady (Power-Ups) Start with one Power-Up or Item worth 50 Coins or less Latent (Chosen Item/Power-Up) For 5 FP: Activate the effect of your chosen Power-Up or Item (in the case of the Power-Up, you have to target yourself) . Cons Handless Legless Weakness (Underfoot) You are Dazed (1) for a number of turns equal to the damage dealt, and you lose your active power-up if you have one. Tech Defaults . Aerial Snatch . Two of the following: Counter Lingering x2 Indirect Ranged, Element (Any, related to chosen Power-Up or Item) Adapted (Aquatic), Carrier, or Hover (as a Personal Trait) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#fake-block",
+    
+    "relUrl": "/species/big_meaty_book_of_races#fake-block"
+  },"22": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Floro Sapien",
+    "content": ". From Super Paper Mario . Distant relatives of dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can't fix the problem with good vibes. Created by: @lonelyazalea . +2 Spirit 1 Power, 0 Defense . Pros + Magic (IOnfluence) + Knowhow (Nature) + Steady (Thorns) Immunity (Water) You heal 5 HP instead. 1 Resist (Earth) . Cons Weakness (Poison) You take +2 damage and are confused (3) for 2 turns. Tech Defaults . Alt-Cost (HP), Indirect Charm Dismiss Daze x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#floro-sapien",
+    
+    "relUrl": "/species/big_meaty_book_of_races#floro-sapien"
+  },"23": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Fractone",
+    "content": ". Made of a strange material called Fractonium, these crystal beings from the Underground World can break and reform their bodies seemingly at will. They have a habit of copying the mannerisms of those around them. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Tattle) + Perform (Vocal Mimicry) + Steady (Shape-Change) Construct (Lifelike) Mimicry Resilient Sinker . Cons Handless . Tech Defaults . Burst x2 Counter Empower Spillover . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#fractone",
+    
+    "relUrl": "/species/big_meaty_book_of_races#fractone"
+  },"24": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Fronk",
+    "content": ". From WarioWare Inc. Fronks are bizarre little creatures found in most urban areas. They have an innate connection with technology, which can often put them into precarious situations when investigating machines. Concept: @yossycoin . +2 Spirit 1 Power, 0 Defense . Pros + Magic (Technology) + Knowhow (Hacking) + Trickery (Stealth) Clones (Copies) Efficient (Technology) . Cons Weakness (Air) You must make a Steady check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn). Tech Defaults . Repeat Simple Selective Tool . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#fronk",
+    
+    "relUrl": "/species/big_meaty_book_of_races#fronk"
+  },"25": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gamboo",
+    "content": ". From Super Mario Bros. Wonder . Clans of gamboo travel the lands as one, speaking and acting in unison. Though sometimes, an individual gamboo may set out to start their own clan, or to find higher purpose. Even so, company is never far when traveling with a gamboo. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Bamboo) + Trickery (Camouflage) + Steady (Balance) Carrier . Cons Handless . Tech Defaults . Indirect Minion (Gamboo) Ranged Sequential . Optional: Variant (Steady) on Minion techniques. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gamboo",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gamboo"
+  },"26": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gearmo",
+    "content": ". From Super Mario Galaxy . Gearmos are autonomous janitors, most well equipped for the care and maintenance of machinery. They can be very particular with keeping things clean, and are easily irked when things make their jobs harder. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Maintenance) + Knowhow (Machinery) + Bully (Chiding) Construct (Lifelike) 1 Resist (Blast) . Cons Weakness (Shock) You become Dazed (1), lasting for a number of turns equal to the damage taken. Tech Defaults . Disarm x2 Homing Swap x2 Tool (Built-In) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gearmo",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gearmo"
+  },"27": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gooble",
+    "content": ". From Super Mario Sunshine . Goobles come in all colors of the rainbow. Being made of paint, they have a knack for creativity that goes into everything they do. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Leaping) + Crafts (Painting) + Bully (Poison) Clones (Copies) Immune (Poison) You heal 5 HP instead. Cons Handless Legless Weakness (Water) You take double damage. If this Technique wouldn't usually deal damage, it deals 2 Piercing damage. Your Attack is Weakened (1) for a number of turns equal to the damage taken. Tech Defaults . Drain x2 Lingering x2 Spillover Terrain (Goop) . Optional: Element (Poison) on Indirect or Ranged Techniques . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gooble",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gooble"
+  },"28": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gotchawrench",
+    "content": ". From Wrecking Crew . These malignant tools are what happens when a tool goes for too long without use, growing resentful and finding use for themselves. Often, this leads to them causing trouble in order to make problems for them to fix. Despite the name, Gotchawrenches can take the form of most any hardware tool. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Demolition) + Crafts (Construction) or + Crafts (Jury-Rig) + Trickery (Stealth) Construct (Lifelike) . Cons N/A . Tech Defaults . Daze x2 Piercing Quake Tool (Built-In) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gotchawrench",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gotchawrench"
+  },"29": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gushen",
+    "content": ". From Super Mario Odyssey . Gushen are haughty sea creatures, priding themselves on their speed and their 'staches. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Propel) + Aim (Spray) + Poise (Etiquette) Adapted (Aquatic) Fly Hover You cannot use your fly or hover traits if you do not have access to water. Cons Handless Weakness (Heatwave/Lava) You cannot use your fly or hover personal traits in battles where either of these conditions are present, unless there is a nearby source of water. Tech Defaults . Element (Water) Provoke x2 Ranged Spillover . Optional: Element (Water) on Indirect or Ranged attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gushen",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gushen"
+  },"30": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Gusty",
+    "content": ". Gusties are wind spirits who go wherever the wind blows. A gusty is as carefree as the spring breeze, never staying in one place for too long before setting off for the next new experience. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Athletics (Flying) + Knowhow (Navigation) + Bully (Pushover) Hover Fly . Cons Legless . Tech Defaults . Aerial Overrun Strike-Through . Optional: Element (Air) on Indirect attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#gusty",
+    
+    "relUrl": "/species/big_meaty_book_of_races#gusty"
+  },"31": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Honeybee",
+    "content": ". From Super Mario Galaxy . Honeybees live out fulfilling lives creating honey for their colony, and carrying out the will of their queen. Some may leave their colonies to act as emissaries of their kingdom, or to see what the wider world holds for them. +2 Courage 1 Power, 0 Defense . Pros + Heal (Syrup) + Trickery (Dodge) + Steady (Orderly) Fly . Cons N/A . Tech Defaults . Aerial Flowery Lingering x2 (Poison) Strike-Through x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#honeybee",
+    
+    "relUrl": "/species/big_meaty_book_of_races#honeybee"
+  },"32": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Inchworm Pipe",
+    "content": ". From Super Mario Bros. Wonder . Pipes suffused with Wonder Power, inchworm pipes are often in constant motion. If an inchworm pipe wants to get somewhere, there's little that can be done to stop it. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Athletics (Climbing) + Magic (Transport) + Trickery (Blend In) Carrier Construct (Lifelike) Sinker . Cons Handless Legless . Tech Defaults . Divider Overrun Ranged Swap x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#inchworm-pipe",
+    
+    "relUrl": "/species/big_meaty_book_of_races#inchworm-pipe"
+  },"33": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Jibberjay",
+    "content": ". These loud-mouthed avians live for the thrill of competition. They make their homes in jungles, where they can find challenging places to race each other. +2 Courage 1 Power, 0 Defense . Pros + Athletics (Flying) + Bully (Taunting) + Perform (Stylish Moves) Fly . Cons N/A . Tech Defaults . Aerial Boost (Dodge) Disable x2 Disorient . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#jibberjay",
+    
+    "relUrl": "/species/big_meaty_book_of_races#jibberjay"
+  },"34": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Kerpop",
+    "content": ". From Super Mario Bros. Wonder . Kerpops are distant relatives to goombas. Over time, they've adapted their bodies to the harsh volcanic conditions they dwell in, with built-in defense mechanisms for when things get too hot. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Jumping) + Crafts (Cooking) + Bully (Loud Noises) Immune (Fire) If targeted by a technique with Element (Fire), your hard body pops, lightening your weight. You gain a 1d6 bonus to any rolls relating to jumping or going airborne. While popped, your Immune (Fire) becomes 1 Resist (Fire). This lasts until the end of combat, or until the end of the scene. Cons Handless . Tech Defaults . Aerial Burst Disorient Provoke x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#kerpop",
+    
+    "relUrl": "/species/big_meaty_book_of_races#kerpop"
+  },"35": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Li'l Oink",
+    "content": ". From Paper Mario 64 . These bespeckled pigs are skittish little things, though are beloved by all for their patterns. They are creatures of chance, happening upon places and things they generally shouldn't. Created by @lonelyazalea . +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Fleeing) + Notice (Movement) + Perform (Cuteness) Immune (Confusion) . Cons Handless . Tech Defaults . All Roulette (-2 FP on one Roulette Slot) Lucky Hit, Fumble (-3 FP on the Lucky Slot) Coin Toss (-3 FP on one Coin Slot) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#lil-oink",
+    
+    "relUrl": "/species/big_meaty_book_of_races#lil-oink"
+  },"36": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Lochlady",
+    "content": ". The gorgeous merfolk of Lake Lamode are most well known for their seamstresses. Even the youngest know how to drive a stitch, and the end result is almost as dazzling as their looks. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Swimming) + Crafts (Clothing) + Perform (Presentation) Adapted (Water) . Cons N/A . Tech Defaults . Bestow Charm Daze x2 Lengthen x2 . Optional: Variant (Perform) on Charm and Daze techniques. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#lochlady",
+    
+    "relUrl": "/species/big_meaty_book_of_races#lochlady"
+  },"37": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Milde",
+    "content": ". From Super Mario World 2: Yoshi's Island . Mildes are known to be a cheerful and carefree bunch, not letting much get to them. They're known for their precise movements and marching, though tend to be a little airheaded… especially when stomped on. Created by @lonelyazalea and @piyohthegenius . CAUTION! With their weakness, a milde player can easily get out of hand in combat. Make sure to run this by your GM first! . +2 Courage or +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Popping) + Coordination (Marching) + Steady (Poise) Clone (Copies) You may use Athletics in order to create a copy. Cons Handless Weakness (Aerial) You take double damage, and are forced to create a copy. Each copy has -1 attack, increasing by -1 for every subsequent copy made this way. Tech Defaults . Burst Indirect Launch . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#milde",
+    
+    "relUrl": "/species/big_meaty_book_of_races#milde"
+  },"38": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Mister I",
+    "content": ". From Super Mario 64 . Mister Is are incredibly odd beings, being large floating eyeballs. Their disconcerting gaze is described as disturbing by some, and hypnotic by others. Usually, though, you can find them just.. float there. +2 Spirit 1 Power, 0 Defense . Pros + Notice (Observations) + Notice (Secrets) + Bully (Unnerve) Hover . Cons Handless Legless Weakness (Disoriented) The Level and Duration of any Disoriented inflicted on you is doubled. Tech Defaults . Confuse x2 Fear x2 Homing Ranged . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#mister-i",
+    
+    "relUrl": "/species/big_meaty_book_of_races#mister-i"
+  },"39": {
+    "doc": "Big Meaty Book of Races",
+    "title": "New Donker",
+    "content": ". From Super Mario Odyssey . Most New Donkers are just trying to get by. They're usually no-nonsense, but see the importance of taking time to wind down from work. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Any one job, chosen at character creation) + Trickery (Join the Crowd) + Perform (Modern Hits) . Cons N/A . Tech Defaults . Alternative (Coins) Tool . 1x Custom Set of Traits Custom Sets are defined during character creation. For New Donkers, they can include any Traits totalling no more than 2 FP, and can't include negative Traits. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#new-donker",
+    
+    "relUrl": "/species/big_meaty_book_of_races#new-donker"
+  },"40": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Phanto",
+    "content": ". From Super Mario Bros. 2 . Phantos are ancient guardians of relics, most commonly found in ruins and dark places. What stirs them from their duty is largely unknown, but a phanto is utterly relentless in pursuit of its goals. +2 Spirit 1 Power, 1 Defense . Pros + Knowhow (Lore) + Notice (Pursuit) + Trickery (Stealth) Construct (Lifelike) Fly . Cons Handless Legless . Tech Defaults . Homing Indirect Snatch Strike-Through . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#phanto",
+    
+    "relUrl": "/species/big_meaty_book_of_races#phanto"
+  },"41": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Pigarithm",
+    "content": ". From Super Paper Mario . Pigarithm are flighty creatures, due in part to the large amount of coins they carry inside them at all times. The trust of a pigarithm is rarely earned, but represents a near unbreakable bond. Created by: @lonelyazalea . +2 Heart 1 Power, 1 Defense . Pros + Athletics (Linear Speed) + Notice (Coins) + Persuade (Commerce) +½ Starting Coins . Cons Handless Weakness (Aerial, Crushing) The Level and Duration of all Statuses you suffer from these attacks are doubled, and you lose 1 coin per point of damage. Tech Defaults . Alt-Cost (Coins) Boost (Dodge) Overrun Minion (Split Selves) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#pigarithm",
+    
+    "relUrl": "/species/big_meaty_book_of_races#pigarithm"
+  },"42": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Pi'illo",
+    "content": ". From Mario &amp; Luigi: Dream Team . The Pi'illo are an ancient people, hailing from Pi'illo Island. Though many are content to stay in their ancestral homes, the dreamy and longing nature of the Pi'illo folk lead them to travel beyond the island's shores. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Bedwear) + Magic (Dreams) + Cheer (Inspire) Hover . Cons Weakness (Sleep) The Level and Duration of all statuses you suffer associated with sleep are doubled. Tech Defaults . Aerial Daze x2 Ranged Tutor . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#piillo",
+    
+    "relUrl": "/species/big_meaty_book_of_races#piillo"
+  },"43": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Pixl",
+    "content": ". From Super Paper Mario . These geometric constructs were created from the spirits of the Game Overed by the shamans, fit into vessels for specific purposes. Though the means of their creation have been lost to all but the eldest of shamans, many still lie in wait in forgotten parts of the world. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Ancient Lore) + Magic (Skill Substitution) + Cheer (Assist) Construct (Lifelike) Fly Hover . Cons Handless Legless . Tech Defaults . Boost (Any) Hustle, Others Tool (Built-In) Tutor . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#pixl",
+    
+    "relUrl": "/species/big_meaty_book_of_races#pixl"
+  },"44": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Poplin",
+    "content": ". From Super Mario Bros. Wonder . Poplins are the residents of the Flower Kingdom, following the rule of Prince Florian. They often tend to gardens and wonder seeds, with flowers holding a special place in their society. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Aim (Items) + Knowhow (Flora) + Persuade (Sales) Immune (Water) You heal 5 HP instead. +½ Syrup effectiveness (for items, as user or target) . Cons Weakness (Heatwave) You are considered Disoriented (1) while in a heatwave. Tech Defaults . Flowery Shared Terrain (Overgrown) Tool . Optional: Split on Flowery Techniques. ",
+    "url": "/homebrew/species/big_meaty_book_of_races#poplin",
+    
+    "relUrl": "/species/big_meaty_book_of_races#poplin"
+  },"45": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Portrait Ghost",
+    "content": ". From Luigi's Mansion . Portrait ghosts come from portraits of people who've died. They'll often become a mimicry of the person they were painted after, partaking in jobs and routines that the subject did in life. +2 Spirit 1 Power, 0 Defense . Pros + Athletics (Telekinesis) + Knowhow (Any, defined at character creation) + Trickery (Dodge) Hover Immune (Fear, Poison) Intangible Undead (Lifelike) . Cons Weakness (Sudden Light) You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn). Legless . Tech Defaults . Drain Fear x2 Launch Throw . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#portrait-ghost",
+    
+    "relUrl": "/species/big_meaty_book_of_races#portrait-ghost"
+  },"46": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Sammer Guy",
+    "content": ". From Super Paper Mario . These valiant warriors come from the Sammer Kingdom. Each lives by their own personal code of honor, often finding work as mercenaries. But each guy fights for two things above all: glory for themselves, and for the Sammer Kingdom. +2 Heart 1 Power, 1 Defense . Pros + Coordination (Acrobatics) + Guard (Melee) + Bully (Intimidate) . Cons N/A . Tech Defaults . Counter Fear x2 Piercing Tool (Indirect) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#sammer-guy",
+    
+    "relUrl": "/species/big_meaty_book_of_races#sammer-guy"
+  },"47": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Steam Gardener",
+    "content": ". From Super Mario Odyssey . Gardening automatons who call the Wooded Kingdom home. Gardeners will often go on pilgrimages to distant lands to learn about new plants, and bring seeds back to their home. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Aim (Watering) + Crafts (Plants) + Knowhow (Flora) Construct (Lifelike) Sinker . Cons Handless . Tech Defaults . Dismiss Flowery Ranged Spillover . Optional: Element (Water) on Ranged attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#steam-gardener",
+    
+    "relUrl": "/species/big_meaty_book_of_races#steam-gardener"
+  },"48": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Shiverian",
+    "content": ". From Super Mario Odyssey . These racers are as cheerful as their bodies are dense. Their thick fat helps them maneuver around without much use of their tiny legs, and helps them to protect what they care about. They adore friendly competition, and you'd be hard pressed to find a shiverian who backs down from a challenge. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Bouncing) + Guard (Melee) + Steady (Balance) 1 Resist (Ice) . Cons N/A . Tech Defaults . Aerial Counter, Harmless Disorient Stun . Optional: Element (Ice) on Indirect attacks . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#shiverian",
+    
+    "relUrl": "/species/big_meaty_book_of_races#shiverian"
+  },"49": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Shroob",
+    "content": ". From Mario &amp; Luigi: Partners in Time . Shroobs were once a race of fearsome aliens from Planet Shroob. Now, they've faced near extinction. The shroobs who still remain are just as shrewd and intelligent as their forefathers, and may one day seek to rise for another takeover… . +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Aim (Rays) + Crafts (Gadgets) + Knowhow (Biology) . Cons N/A . Tech Defaults . Minion (RC Drones) Tool (Ranged) Variant (Crafts) Weaken . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#shroob",
+    
+    "relUrl": "/species/big_meaty_book_of_races#shroob"
+  },"50": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Squirpian",
+    "content": ". From Super Paper Mario . Squirpians are a near-extinct race of aliens once trusted with guarding a pure heart. In times since then, they've roamed the galaxy with their purpose complete, seeking new meanings for their existence. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Coordination (Piloting) + Knowhow (Lore) + Cheer (Inspire) Fly . Cons N/A . Tech Defaults . Boost (Any) Burst Provoke x2 Ranged . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#squirpian",
+    
+    "relUrl": "/species/big_meaty_book_of_races#squirpian"
+  },"51": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Talking Flower",
+    "content": ". From Super Mario Odyssey . These Flower Kingdom fellows love nothing more than talking. They often travel far and wide, just to have a conversation partner. Concept: @piyohthegenius . +2 Courage 1 Power, 0 Defense . Pros + Knowhow (Any, defined at character creation) + Cheer (Encourage) + Persuade (Shmooze) Fly . Cons Handless Legless . Tech Defaults . Boost Confuse x2 Flowery Provoke x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#talking-flower",
+    
+    "relUrl": "/species/big_meaty_book_of_races#talking-flower"
+  },"52": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Theet",
+    "content": ". From Princess Peach: Showtime! . Theets are patrons of the arts, forming some of the best acting troupes around. Though prone to stage fright, there's very little that will stop a theet from putting on a good show. +2 Courage 1 Power, 0 Defense . Pros Trickery (Disguise) or Crafts (Costumes) + Cheer (Teamwork) + Perform (Theatrics) Fly . Cons Weakness (Fear) The Level and Duration of all Statuses you suffer associated with fear are doubled. Tech Defaults . Allies Daze x2 Element (Light) Flowery . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#theet",
+    
+    "relUrl": "/species/big_meaty_book_of_races#theet"
+  },"53": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tiki",
+    "content": ". From Donkey Kong Country Returns . Tikis are a proud race of self-made, fruit fueled tribesmen. They possess great talent in music, which they often use to create disorienting and hypnotic songs to gain the upper hand. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Crafts (Woodworking) + Magic (Hypnotism) + Perform (Music) Construct (Lifelike) Hover . Cons Handless, or Weakness (Crushing) You take +2 damage and fall to the ground. This leaves you Dazed (1) for a number of turns equal to the damage dealt. Legless . Tech Defaults . Charm Confuse x2 Disorient Element (Fire) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tiki",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tiki"
+  },"54": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Topman",
+    "content": ". From Super Mario Galaxy . Topmen are a tribe of spacefaring robots, constantly seeking territory. They often settle clashes by crashing into each other, seeing who falls first. Topmen are often honorable in the art of combat, using the bulk of their body to take down their foes. +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Athletics (Spinning) + Bully (Knock Around) + Steady (Balance) Construct (Lifelike) Sinker . Cons Weakness (Shock) You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken. Legless . Tech Defaults . Counter Disorient Divider Launch . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#topman",
+    
+    "relUrl": "/species/big_meaty_book_of_races#topman"
+  },"55": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tostarenan",
+    "content": ". From Super Mario Odyssey . These fiesta loving skeletons call the sand kingdom home. Though when they leave the sands of Tostarena behind, they always bring the party with them. +2 Courage 1 Power, 0 Defense . Pros + Trickery (Parlour Tricks) + Cheer (Celebrations) + Perform (Instruments) Resilient Undead (Lifelike) . Cons Weakness (Blast) You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken. Tech Defaults . Allies Boost (Any) Charm Dismiss . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tostarenan",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tostarenan"
+  },"56": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tox Box",
+    "content": ". From Super Mario 64 . Tox Boxes follow patterns their whole life, idly rolling about. Unless, of course, something stops them from completing their pattern, in which case they begin to wander around.. +2 Heart 1 Power, 1 Defense . Pros + Athletics (Run Over) + Guard (Melee) + Bully (Knock Over) Construct Sinker . Cons Handless Legless . Tech Defaults . Daze x2 Overrun Secure, Others Sequential . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tox-box",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tox-box"
+  },"57": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Tsubon",
+    "content": ". From Mario &amp; Wario . These cursed urns often serve as mindless guards of caverns and temples. Though, there are a few among them who gain a heightened sense of self, setting out to find purpose in the world. +2 Heart 1 Power, 0 Defense . Pros + Aim (Projectiles) + Athletics (Climbing) + Crafts (Pottery) Construct (Lifelike) . Cons Weakness (Launch/Throw) If targeted by a move with the Launch or Thrown tags, your pottery cracks. You are Weakened (-1 POW) for a turn for each point of damage taken (minimum 1 turn). Tech Defaults . Lingering x2 Piercing Ranged Repeat . Optional: Element (Any) on Ranged attacks. (Must be decided at character creation) . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#tsubon",
+    
+    "relUrl": "/species/big_meaty_book_of_races#tsubon"
+  },"58": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Twilighter",
+    "content": ". From Paper Mario: The Thousand Year Door . These shady folk prefer the darker corners of the world. Though their disposition may be gloomy, they're hardy survivors who will stand for the safety of friends and family. Though, they may just take the longer or less noticeable route to success. +2 Spirit 1 Power, 0 Defense . Pros + Crafts (Stitching) + Trickery (Hiding) + Bully (Coerce) Resilient . Cons Weakness (Curses) The duration of effects caused by curses are doubled. Weakness (Sudden Light) You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn). Tech Defaults . Daze x2 Repeat Snatch Terrain (Darkness) . Optional: Element (Shadow) on Indirect or Ranged Techniques . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#twilighter",
+    
+    "relUrl": "/species/big_meaty_book_of_races#twilighter"
+  },"59": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Uproot",
+    "content": ". From Super Mario Odyssey . Uproots dwell in deep forests, creating shells to protect themselves from the elements. Weirdly enough, the shells they make often resemble plant pots.. +2 Heart 1 Power, 0 Defense . Pros + Athletics (Jumping) + Guard (Melee) + Crafts (Ceramics) Elevation . Cons N/A . Tech Defaults . Aerial Indirect Reach Repeat . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#uproot",
+    
+    "relUrl": "/species/big_meaty_book_of_races#uproot"
+  },"60": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Virus",
+    "content": ". From Dr. Mario . Viruses are naughty little creatures, most often set to inflict their ails on whoever they come across. Even so, when faced with threats much greater than one of their own, their camaraderie is second to none, joining forces to take on tough foes. +1 Spirit, +1 Courage 1 Power, 0 Defense . Pros + Knowhow (Medicine) + Trickery (Shenanigans) + Bully (Weaken) Clone (Copies) Adapted (Bodies) . Cons Weakness (Life Magic, Medicine) You treat the HP you would normally recover as damage. Tech Defaults . Confuse x2 Disable x2 Lingering x2 (Sickness) Weaken . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#virus",
+    
+    "relUrl": "/species/big_meaty_book_of_races#virus"
+  },"61": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Volbonan",
+    "content": ". From Super Mario Odyssey . These expert chefs call the Luncheon Kingdom home. The travelers amongst them are always searching for new flavors for their dishes, and new meals to sample. Wherever a Volbonan goes, tasty food is sure to follow. Credit to \"Lwiis64\" on DeviantArt for the art. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Aim (Throw Item) + Crafts (Food) + Knowhow (Culinary) 1 Resist (Fire) . Cons N/A . Tech Defaults . Element (Fire) Hearty x2 Launch Piercing . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#volbonan",
+    
+    "relUrl": "/species/big_meaty_book_of_races#volbonan"
+  },"62": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Waddlewing",
+    "content": ". From Super Mario Odyssey . Waddlewings are deft little creatures, capable of gliding through the air with ease. Many waddlewings find a hobby in collecting objects. Credit to @lucydndprincess for fly mechanic. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Climb) + Athletics (Glide) + Bully (Snatch) Fly When using this trait to Fly, you only stay airborne for a number of Turns equal to the Grades of Success you rolled to become airborne in the first place. Cons N/A . Tech Defaults . Aerial Disarm x2 Reach Snatch . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#waddlewing",
+    
+    "relUrl": "/species/big_meaty_book_of_races#waddlewing"
+  },"63": {
+    "doc": "Big Meaty Book of Races",
+    "title": "Whittle",
+    "content": ". From Super Mario Galaxy 2 . Whittles are tree spirits, well known the world over for their bravery and pride. Though they may be lacking in conversation skills, a whittle is a stalwart friend, dedicated to whatever they may deem their cause to be. +1 Heart, +1 Spirit 1 Power, 1 Defense . Pros + Athletics (Sliding) + Knowhow (Plants) + Steady (Resilience) Immune (Fear) . Cons Weakness (Fire) You take a +2 damage and suffer from a Lingering burn, lasting a number of turns equal to the damage taken. Tech Defaults . Aerial Hearty x2 Overrun Strike-Through x2 . ",
+    "url": "/homebrew/species/big_meaty_book_of_races#whittle",
+    
+    "relUrl": "/species/big_meaty_book_of_races#whittle"
+  },"64": {
+    "doc": "Charged",
+    "title": "Charged",
+    "content": "A Status trying to replicate better the effect of the \"Charge\" abilities seen in Paper Mario games than the usual \"Boosted\" Status. ",
+    "url": "/homebrew/status/charged",
+    
+    "relUrl": "/status/charged"
+  },"65": {
+    "doc": "Charged",
+    "title": "Charged",
+    "content": "Your Attack is Charged, increasing it by the Status Level for the Duration of this Status. Unlike other Statuses, Charged doesn't have a Turn duration, instead, any Levels of Charge you have end when you use a Technique that targets your enemies, even if no Damage was dealt. When gaining multiple instances of Charge, instead of keeping the higher Level, they add together. ",
+    "url": "/homebrew/status/charged",
+    
+    "relUrl": "/status/charged"
+  },"66": {
+    "doc": "Elements in Detail",
+    "title": "Elements in Detail",
+    "content": ". | Fire | Ice | Shock | Water | Air | Blast | Earth | Goop | Poison | Light | Shadow | Star | . The Elements that your attack can be don't have a full on out description of what they are in the Paper Story Rulebook, since they can technically be anything. If you really wanted Element (Clown), your Gamemaster can allow it if they wish. Here I have taken the liberty to list out the most common Elements you will find in Paper Story, along with their most common Weaknesses, and even descriptions of each Element. ",
+    "url": "/homebrew/other/elements_in_detail",
+    
+    "relUrl": "/other/elements_in_detail"
+  },"67": {
+    "doc": "Elements in Detail",
+    "title": "Fire",
+    "content": "Suggested Weakness . Water, Ice . Heat, flames, and burns. The fiery breath of a Dragon or the flickering open campfire. Ie, Hooktail's Fire Breath, the touch of a Lava Bubble, Fire Flowers . ",
+    "url": "/homebrew/other/elements_in_detail#fire",
+    
+    "relUrl": "/other/elements_in_detail#fire"
+  },"68": {
+    "doc": "Elements in Detail",
+    "title": "Ice",
+    "content": "Suggested Weakness . Blast, Fire . Cold, frost, and frozen things. The chill of the air or the touch of an icicle on bare skin. Ie, Frost Piranha's Icy Breath, the touch of a Li'l Brr, Ice Flowers . ",
+    "url": "/homebrew/other/elements_in_detail#ice",
+    
+    "relUrl": "/other/elements_in_detail#ice"
+  },"69": {
+    "doc": "Elements in Detail",
+    "title": "Shock",
+    "content": "Suggested Weakness . Earth, Goop . Electrical currents and bolts of lightning from the sky. Static shock and all types of plasma. Ie, Watt's Electro Dash, the touch of an Amp, the Thunder Bolt item . ",
+    "url": "/homebrew/other/elements_in_detail#shock",
+    
+    "relUrl": "/other/elements_in_detail#shock"
+  },"70": {
+    "doc": "Elements in Detail",
+    "title": "Water",
+    "content": "Suggested Weakness . Poison, Shock . Jets of water and other liquids, floods, and potentially even drowning. The powers of the ocean. Ie, Sushie's Squirt or Tidal Wave . ",
+    "url": "/homebrew/other/elements_in_detail#water",
+    
+    "relUrl": "/other/elements_in_detail#water"
+  },"71": {
+    "doc": "Elements in Detail",
+    "title": "Air",
+    "content": "Suggested Weakness . Poison, Shock . Gusts of wind with enough force to feel like a punch. The power of the sky. Ie, Parakarry's Air Raid, Buzzar's Wind Blast . ",
+    "url": "/homebrew/other/elements_in_detail#air",
+    
+    "relUrl": "/other/elements_in_detail#air"
+  },"72": {
+    "doc": "Elements in Detail",
+    "title": "Blast",
+    "content": "Suggested Weakness . Fire, Goop . Explosions and high amounts of force. Bombs going off or the force of a missile. Ie, a Bomb-Omb's explosion, the Egg Bomb item, being hit by a Bullet Bill . ",
+    "url": "/homebrew/other/elements_in_detail#blast",
+    
+    "relUrl": "/other/elements_in_detail#blast"
+  },"73": {
+    "doc": "Elements in Detail",
+    "title": "Earth",
+    "content": "Suggested Weakness . Air, Blast . Rocks, mountains, and earthquakes. The power of nature and magical stones . Ie, Monty Mole's Rock Toss, the Earth Quake item, Earth Tremor . ",
+    "url": "/homebrew/other/elements_in_detail#earth",
+    
+    "relUrl": "/other/elements_in_detail#earth"
+  },"74": {
+    "doc": "Elements in Detail",
+    "title": "Goop",
+    "content": "Suggested Weakness . Air, Water . Acidic ooze and black paint. Stuff that corrodes and eats away at stuff. Ie, Shadow Mario's Paint, the Ooze fired by some Rabbid Weapons . ",
+    "url": "/homebrew/other/elements_in_detail#goop",
+    
+    "relUrl": "/other/elements_in_detail#goop"
+  },"75": {
+    "doc": "Elements in Detail",
+    "title": "Poison",
+    "content": "Suggested Weakness . Earth, Ice . Venomous stings and toxic gasses. Stuff that pollutes and makes you sick. Ie, Gloomtail's Poison Breath, the touch of a Poison Mushroom, a Poison Pokey's sting . ",
+    "url": "/homebrew/other/elements_in_detail#poison",
+    
+    "relUrl": "/other/elements_in_detail#poison"
+  },"76": {
+    "doc": "Elements in Detail",
+    "title": "Light",
+    "content": "Suggested Weakness . Shadow, Star . Light, holy, and radiant energies. The energies of the Nimbi and the Star Spirits . Ie, the light of a Lantern Ghost's Lantern . ",
+    "url": "/homebrew/other/elements_in_detail#light",
+    
+    "relUrl": "/other/elements_in_detail#light"
+  },"77": {
+    "doc": "Elements in Detail",
+    "title": "Shadow",
+    "content": "Suggested Weakness . Light, Star . Darkness, shadows, and necrotic energies. The touch of the undead and the energy of the Ztars. Ie, Shadow Queen's Dark Wave . ",
+    "url": "/homebrew/other/elements_in_detail#shadow",
+    
+    "relUrl": "/other/elements_in_detail#shadow"
+  },"78": {
+    "doc": "Elements in Detail",
+    "title": "Star",
+    "content": "Suggested Weakness . Light, Shadow . Untyped cosmic energy. Similar in nature to D&amp;D's Force Damage. Ie, Monstar's Magic Storm, the Shooting Star item, Star Storm, Supernova . ",
+    "url": "/homebrew/other/elements_in_detail#star",
+    
+    "relUrl": "/other/elements_in_detail#star"
+  },"79": {
+    "doc": "Elive's Assorted Badges",
+    "title": "Elive's Assorted Badges",
+    "content": ". | Badges | MINUS-Badges | . A list of homebrew Paper Story badges I came up with, complete with my own custom art! Some badges are based on rulesets from other homebrew makers (Or I guess for now just two), so their names will be placed in the badge descriptions to indicate what homebrew you might have to look at in order for it to make sense. If the technique uses Magic for one of its checks, or would include a specialization in Magic (or something similar such as spells or sorcery), it counts as \"Magic-based\". This includes techniques done through improvised spells. ",
+    "url": "/homebrew/inventory/elive_assorted_badges",
+    
+    "relUrl": "/inventory/elive_assorted_badges"
+  },"80": {
+    "doc": "Elive's Assorted Badges",
+    "title": "Badges",
+    "content": ". Qi-Creative . BadgeSkills • 5 BP • 250 Coins . You can cast Spontaneous Spells using Heart and Athletics (Still uses FP to access dice pool), and add a free 1d6 when you do so. Failures and Crit: Fails for these checks deal damage to you equal to your power. Mr. Crafty . BadgeSkills • 2 BP • 200 Coins . Item value when Crafting from Scratch starts with +10 coins. As long as you succeed in the roll, you can mix items without needing to spend a Grade of Success when Enhancing. Street Artist . BadgeSkills • 2 BP • 150 Coins . You can always make a free Appeal check when traveling through time-skips, rolls, or cell-movement (The minimum success grade for this check is always Nice! and does not raise the required grade for subsequent appeal checks). White Magic . BadgeSkills • 1 BP • 50 Coins . All your Spontaneous Spells and *Magic-based techniques now have Element (Light), even if not a Technique. When making a Magic check meant for healing, it heals +2 HP. Green Magic . BadgeSkills • 1 BP • 50 Coins . Negative status effects inflicted on you last for an extra turn. So long as you succeed the check, your Enchantments, Curses and *Magic-based techniques that inflict status effects automatically gain an extra grade of success. Black Magic . BadgeAttack • 1 BP • 50 Coins . All your *Magic-based techniques with a primary check have Unwieldy (Primary), but also have +1 Attack. Gamble Aura . BadgeAttack • 2 BP • 100 Coins . All your techniques with a primary check, that don't already have the Fumble or Lucky-Hit traits, now have Fumble (Harmless, Exhausting) and Lucky-Hit (Strongx2). The FP cost remains unaffected. Extra Flare . BadgeAttack • 2 BP • 100 Coins . Upon a successful stylish-use of a damaging technique, inflict a Lingering ([X]) fire on the target(s) for 3 turns, where [X] is the number of instances of this badge you've equipped. Grazing Power . BadgeDefense • 3 BP • 200 Coins . Gain a separate +1 Attack Boost for every attack you've dodged last turn, expires at the end of the subsequent turn. Twist Guard . BadgeDefense • 3 BP • 150 Coins . When you successfully superguard a melee attack, inflict Disorient (2) on the attacker for 1 turn. Fine Together . BadgeDefense • 5 BP • 150 Coins . When rolling Steady as an action to resist effects, one other ally can lower the duration of their own status effects by as many Grades of Success you got as a free action. Splash Strike . BadgeTechnique • 1 BP • 74 Coins . By spending 3 FP, you can treat a single-target technique as if it had Element (Water) and Burst. Sap Slam . BadgeTechnique • 1 BP • 74 Coins . By spending 3 FP, you can treat a single-target technique as if it had Element (Earth) and Drainx3. Shock Smash . BadgeTechnique • 1 BP • 74 Coins . By spending 3 FP, you can treat a single-target technique as if it had Element (Shock), Stunx3, and Shortenx2. Secondary check defaults to Magic. Dark Dunk . BadgeTechnique • 1 BP • 74 Coins . By spending 3 FP, you can treat a single-target technique as if it had Element (Dark), and Fearx3. Secondary check defaults to Bully or Magic. (Idea by @bigmeatyflaws) . Money Mash . BadgeTechnique • 1 BP • 100 Coins . By spending 3 FP, you can treat a single-target technique as if it had Element (Light) and steals 2d6 coins from the target. Blue Magic . BadgeTechnique • 2 BP • 74 Coins . When this badge is equipped, specific Actions some enemies can take will have the \"Learning\" tag (GM Decision), and you will be noted of this when it is used, or if you make a Knowhow check. When you are affected by this action (Damaged, Healed, Inflicted with ailment, etc.) make a Knowhow or Magic check: . Great!: At the end of combat, the GM will turn the action into a Technique, attached to this individual badge. The Technique can be given Variant (Knowhow) or Variant (Magic) for free. Only one Technique can be attached to a copy of Blue Magic, and the wearer can choose to overwrite the previous technique attached. You do not need to survive combat after succeeding the check for the Technique to be gained. Red Magic . BadgeTechnique • 4 BP • 150 Coins . Choose 2 *Magic-based Techniques (Including the same one) with an FP total greater than 0. You can use them in a single turn, one after the other, but the total FP cost is doubled. Traits of Delay, Cooldown and Exhausting are added together, Delay only activates before the first technique begins, and Cooldown (given to both techniques) and Exhausting only activate after the last technique. Quick Assist . BadgeTechnique • 3 BP • 150 Coins . This Badge make uses of Lucy's Partner System. As an action, choose a technique from a partner currently on standby and spend SP as if the technique had Alt-Cost (SP) (At least 2 SP). They quickly swap in and out, performing the technique. Potent Conserve . BadgeBoon • 5 BP • 300 Coins . The FP cost of the wearer's Latent traits is lowered by 1, to a minimum of 1. Weather Report . BadgeBoon • 3 BP • 100 Coins . At the start of battle, roll a d6. A corresponding weather terrain emanates from you, giving everyone said terrain at lv. 2 for 3 turns. If multiple characters have this badge, only one takes effect. | Gale | Heatwave | Rain | Sandstorm | Smog | Snow | . Geo-Favour . BadgeBoon • 4 BP • 200 Coins . Upon obtaining this badge, pick any environmental terrain type to attach to it. When you are under the effects of that terrain, you negate its Cons and treat its level as +1 for Pros. Crimson Noise . BadgeBoon • 2 BP • 150 Coins . Upon battle victory, make a Notice Check: . Good!: The tense energy from the battle creates a random small item. Stars Beyond . BadgeBoon • 2 BP • 150 Coins . Gain +2 SP for every extra grade of success beyond an Unbelievable!. Gang-Up . BadgeBoon • 4 BP • 200 Coins . This Badge make uses of Lucy's Partner System. When in battle, and you're the only player character, the partner this badge is attached to may enter the battle, as well as your current partner. (P version applies to up to 3 partners). Quick Draw . BadgeBoon • 4 BP • 500 Coins . Allows you to change your gear in battle as a free action. When Hustled, using different gear techniques does not increase the required grades of success during your turn's actions (Other actions do, and using techniques from previously equipped gear this turn still increases the required grades). ",
+    "url": "/homebrew/inventory/elive_assorted_badges#badges",
+    
+    "relUrl": "/inventory/elive_assorted_badges#badges"
+  },"81": {
+    "doc": "Elive's Assorted Badges",
+    "title": "MINUS-Badges",
+    "content": "\"Nobody's sure what these things really are. Some have speculated they're made of Ztar energy, or perhaps from star pieces of comets that tried to deliver a wish of true evil. Whatever the case, wearing 'em seems to give way for more badges to take effect, darkness giving way to light, or something. Just remember, if you're gonna wear them, the stars themselves might make sure you pay the toll..\" . MINUS-Badges are special types of badges, effectively their inverse. Each one grants a negative effect, one that's hard to use in your favor, and each one is more horrid the rarer the badge it's attached to is. In exchange, the badge increases your BP temporarily, perhaps even over your current limit, allowing you to equip more regular badges. Keep one thing in mind though: only one MINUS-Badge can take effect at a time. Skill Minus . BadgeMINUSSkills • -1 BP • 50 Coins . -1 to all your Skills when this badge is equipped, to a minimum of 0. Feeble Body . BadgeMINUSDefense • -2 BP • 100 Coins . All negative status ailments inflicted on you have double level and duration. ",
+    "url": "/homebrew/inventory/elive_assorted_badges#minus-badges",
+    
+    "relUrl": "/inventory/elive_assorted_badges#minus-badges"
+  },"82": {
+    "doc": "Elive's Assorted Species",
+    "title": "Elive's Assorted Species",
+    "content": ". | Species . | Pokio | Elephant-Kin | Kitchen-Kids (Tomato Adventure) | Chocobo | Nu-Mou | Seeq | Moogle | Viera | Bangaa | Gria | . | Subspecies . | Fruity- | Gooey- | Bullet Artist (Touhou, Len'en, etc.) | Hue Sorcerer (Puyo Puyo) | . | . ",
+    "url": "/homebrew/species/elive_assorted_species",
+    
+    "relUrl": "/species/elive_assorted_species"
+  },"83": {
+    "doc": "Elive's Assorted Species",
+    "title": "Species",
+    "content": " ",
+    "url": "/homebrew/species/elive_assorted_species#species",
+    
+    "relUrl": "/species/elive_assorted_species#species"
+  },"84": {
+    "doc": "Elive's Assorted Species",
+    "title": "Pokio",
+    "content": ". Small, pheasant-like avians notable for their tough, retractable beaks. With pride and honor, these borbs (Bird-orbs) typically \"fling\" themselves head-first into their troubles, prodding at it before \"poking\" through with their natural solution. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Coordination (Extend-o-Beak) or + Athletics (Nailing) + Guard (Ranged) + Steady (Stand-Ground) . Cons N/A . Tech Defaults . Reach Strike-Through x2 Counter Piercing . Optional: Indirect on Reach and Strike-Through Techniques. ",
+    "url": "/homebrew/species/elive_assorted_species#pokio",
+    
+    "relUrl": "/species/elive_assorted_species#pokio"
+  },"85": {
+    "doc": "Elive's Assorted Species",
+    "title": "Elephant-Kin",
+    "content": ". Bipedal creatures with good hearing, strong hides and even stronger trunks, the latter making them capable of acrobatic maneuvers and blasting air and water. They're generally quite approachable, but their sensitive ears make them easy to startle. +2 Heart or +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Athletics (Trunks) + Notice (Sounds) + Athletics (Brawn) or + Perform (Trumpetting) . Cons Weakness (Sounds) Damage dealt by sound-based sources is doubled. The Level and Duration of negative statuses inflicted by sound-based sources are increased by 1. Weakness (Provoke, Confuse) The Level and Duration of any of these Statuses inflicted on you is doubled. Tech Defaults . Throw Indirect, Reach Ranged, Variant (Athletics) Quake . Optional: Element (Water) or Element (Air) on Ranged Attacks. ",
+    "url": "/homebrew/species/elive_assorted_species#elephant-kin",
+    
+    "relUrl": "/species/elive_assorted_species#elephant-kin"
+  },"86": {
+    "doc": "Elive's Assorted Species",
+    "title": "Kitchen-Kids (Tomato Adventure)",
+    "content": ". Hailing from a variety of culinary-themed kingdoms, these youngsters of differing looks and sizes share a love and affinity for gimmick-ridden gadgets and challenges. Because of this, you can count on them to get the job done together (No matter how unorthodox their methods appear). +1 Courage, +1 Any Stat 1 Power, 0 Defense . Pros + Coordination (Toys) + Athletics (Minigames) or + Craft (Gizmos) + Cheer (Teamwork) . Cons N/A . Tech Defaults . Tool Flowery Alt-Cost (SP) Overclock [Elive] . Optional: Split on Flowery Techniques. ",
+    "url": "/homebrew/species/elive_assorted_species#kitchen-kids-tomato-adventure",
+    
+    "relUrl": "/species/elive_assorted_species#kitchen-kids-tomato-adventure"
+  },"87": {
+    "doc": "Elive's Assorted Species",
+    "title": "Chocobo",
+    "content": ". Birds of many feathers and many capabilities, but commonly flightless with a fast-dash. Outside of their speed when healthy, many seek a Chocobo companion for their gentle natures, yet undeniable bravery (Not to mention their cuteness). +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Run) or + Athletics (Beak) + Coordination (Carrying) + Cheer (Charge-up) Carrier Immune (Fear) . Cons Weakness (Fire) You take +2 damage and suffer from a Lingering burn, lasting a number of turns equal to the damage taken. Tech Defaults . Overrun Confuse x2 Strong Aerial . ",
+    "url": "/homebrew/species/elive_assorted_species#chocobo",
+    
+    "relUrl": "/species/elive_assorted_species#chocobo"
+  },"88": {
+    "doc": "Elive's Assorted Species",
+    "title": "Nu-Mou",
+    "content": ". With elongated faces and drooping, bored ears, this old-looking race is one of many hailing from the land of Ivalice. Though ill-fit for the front lines, their expertise in medicine, ancient stories and all things magic make up for it tenfold. +2 Spirit 1 Power, 0 Defense . Pros + Heal (Alchemy) + Knowhow (Lore) + Magic (Spontaneous Spells) 1 Resist (Magic) . Cons Sinker . Tech Defaults . Hearty x2 Minion Burst . 1x Custom Set of Traits Custom Sets are defined during character creation. For Nu-Mous, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. They can include Variant (Magic) or Variant (Knowhow) for no additional cost. Optional: Split on Hearty Techniques. ",
+    "url": "/homebrew/species/elive_assorted_species#nu-mou",
+    
+    "relUrl": "/species/elive_assorted_species#nu-mou"
+  },"89": {
+    "doc": "Elive's Assorted Species",
+    "title": "Seeq",
+    "content": ". One-horned pig-people from the land of Ivalice, acting as excellent front-liners. Though characterized as all brawn and no brains, many carry expertise in war tactics and unconventional item-use that can turn the tides of even the most one-sided of battles. +2 Heart 2 Power, 0 Defense . Pros + Aim (Items) + Athletics (Brute-Force) + Cheer (Tactics) . Cons Weakness (Charm, Provoke, Confuse) The Level and Duration of any of these Statuses inflicted on you is doubled. Tech Defaults . Strong x2, Unwieldy Disarm x2 Boost . 1x Custom Set of Traits Custom Sets are defined during character creation. For Seeqs, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. They can include Variant (Athletics) for no additional cost. Optional: Variant (Athletics) on damaging Techniques. ",
+    "url": "/homebrew/species/elive_assorted_species#seeq",
+    
+    "relUrl": "/species/elive_assorted_species#seeq"
+  },"90": {
+    "doc": "Elive's Assorted Species",
+    "title": "Moogle",
+    "content": ". Short-stature, cute bat-wings, and bright red pom-poms easily distinguish these daring folk from the rest of the Ivalian crowd. They're well known for their verbal tic “Kupo”, and the variety of odd-jobs they can find themselves in, so long as they set their minds to them. +2 Courage 1 Power, 0 Defense . Pros + Crafts (Machinery) + Persuade (Charm) + Perform (Charm) Hover . Cons Sinker . Tech Defaults . Tool Charm x2 . 1x Custom Set of Traits Custom Sets are defined during character creation. For Moogles, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. They can include Tool for no additional cost. ",
+    "url": "/homebrew/species/elive_assorted_species#moogle",
+    
+    "relUrl": "/species/elive_assorted_species#moogle"
+  },"91": {
+    "doc": "Elive's Assorted Species",
+    "title": "Viera",
+    "content": ". Silver-haired are these hare-featured folk from the woods of Ivalice. Limber, keen to even the slightest change in their surroundings, and deeply entwined with the voice of the woods, they're able to avoid even the most chaotic of attack flurries, make precise strikes, and call upon spiritual energy to aid them. +1 Heart, +1 Spirit 1 Power, 0 Defense . Pros + Aim (Bows) + Trickery (Evasion) + Magic (Spirits) . Cons N/A . Tech Defaults . Homing Tool (Ranged) Secure (Reflexes) . 1x Custom Set of Traits Custom Sets are defined during character creation. For Vieras, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. Optional: Variant (Trickery) on Tool Techniques. ",
+    "url": "/homebrew/species/elive_assorted_species#viera",
+    
+    "relUrl": "/species/elive_assorted_species#viera"
+  },"92": {
+    "doc": "Elive's Assorted Species",
+    "title": "Bangaa",
+    "content": ". Reptilian-people from Ivalice with tough scales and intimidating looks. They're characterized with a love for combat and proficiency with many forms of steel and edge, and are capable of fending off even the most unstoppable of forces. +1 Heart, +1 Courage 1 Power, 1 Defense . Pros + Coordination (Weaponry) + Guard (Counter) + Bully (Intimidation) . Cons Weakness (Water) You take +2 damage and your Defense is Weakened (1) for a number of turns equal to the damage taken. Tech Defaults . Piercing Tool (Indirect) Counter . 1x Custom Set of Traits Custom Sets are defined during character creation. For Bangaas, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. Optional: Variant (Guard) on Indirect Techniques. ",
+    "url": "/homebrew/species/elive_assorted_species#bangaa",
+    
+    "relUrl": "/species/elive_assorted_species#bangaa"
+  },"93": {
+    "doc": "Elive's Assorted Species",
+    "title": "Gria",
+    "content": ". Dragon-human hybrids, from the land of Ivalice, who are much tougher than they look. Possessing powerful wings and a strong fighting spirit, they can rise above their competition, before swooping in for the kill. +1 Heart, +1 Courage 1 Power, 0 Defense . Pros + Athletics (Wings) + Magic (Terrain) + Steady (Airborne) Fly . Cons Weakness (Air) You take +2 damage and your Defense is Weakened (1) for a number of turns equal to the damage taken. Tech Defaults . Aerial Terrain Weaken . 1x Custom Set of Traits Custom Sets are defined during character creation. For Grias, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. They can include Variant (Athletics) for no additional cost. ",
+    "url": "/homebrew/species/elive_assorted_species#gria",
+    
+    "relUrl": "/species/elive_assorted_species#gria"
+  },"94": {
+    "doc": "Elive's Assorted Species",
+    "title": "Subspecies",
+    "content": " ",
+    "url": "/homebrew/species/elive_assorted_species#subspecies",
+    
+    "relUrl": "/species/elive_assorted_species#subspecies"
+  },"95": {
+    "doc": "Elive's Assorted Species",
+    "title": "Fruity-",
+    "content": ". Creatures of this variety have a physique heavily entwined with fruits, be it having bodies that produce naturally sweet substances, or having ones that full-on mimic one and its properties. Regardless of the specifics, they are said to be very approachable, for better (New friends) or worse (Potential predators). e.g. Orange Pokeys, Magic-Paintbrush Yoshis . +1 Heart, -1 Spirit . Add . + Heal (Fruit) + Cheer (FP) + Persuade (Sweet-Scent) +½ Fruit item effectiveness (As user or target) . Weakness (Fire) You take +2 damage and suffer from a Lingering burn, lasting a number of turns equal to the damage taken. Remove Specializations in Athletics, Trickery, Steady; Remove any remaining specializations from the final species until you have at most 3. Added Tech Defaults . Hearty x2 Optional: Split on Hearty Techniques. Flowery Optional: Split on Flowery Techniques. Charm Ranged . Removed Tech Defaults . Fear Secure Divider . Conditions . N/A . ",
+    "url": "/homebrew/species/elive_assorted_species#fruity-",
+    
+    "relUrl": "/species/elive_assorted_species#fruity-"
+  },"96": {
+    "doc": "Elive's Assorted Species",
+    "title": "Gooey-",
+    "content": ". These creatures have bodies of slime, sticky or loose on a whim, and while they aren't inherently toxic, they fare better than most in messy environments (Mud, goop and rain). They can be picky at times with how their food is prepared though, which is understandable as a literal matter of life or death. e.g. Snail Koopas(?), Spike Blops . +1 Courage, -1 Heart . Add . + Athletics (Slip-Away) or + Trickery (Squeeze-Through) + Bully (Sliming) + Steady (Run-off) Immune (Poison) Recover 5 HP instead. 1 Resist (Water) You can easily keep your footing in rain, and recover 1 HP when in rain or water every other turn. Weakness (Fire) You take +2 damage and become Dazed (2), lasting a number of turns equal to the damage taken. Weakness (Salt) You are Stunned (6) for 3 turns. During this period, any attacks targeting you ignore your defenses (Immunities and Weaknesses included) and deal +2 damage. Remove Specializations in Athletics, Trickery, Persuade; Remove any remaining specializations from the final species until you have at most 3. Weakness (Water) Weakness (Poison) Resist (Fire) . Added Tech Defaults . Daze x2 Weaken (Dodge) Terrain (Goop) Drain x2 . Removed Tech Defaults . Homing Dismiss Aerial . Conditions . N/A . ",
+    "url": "/homebrew/species/elive_assorted_species#gooey-",
+    
+    "relUrl": "/species/elive_assorted_species#gooey-"
+  },"97": {
+    "doc": "Elive's Assorted Species",
+    "title": "Bullet Artist (Touhou, Len'en, etc.)",
+    "content": ". Be it human, monster, or even god, these individuals are ones who see soaring through the air and creating waves of colorful yet powerful bullet curtains as the norm. Though the specifics may vary, they'll almost always be up for giving you a beautiful (yet painful) showcase. [Class Archetype] . +1 Spirit or +1 Courage, -1 Heart . Add . + Athletics (Flight) + Crafts (Spell Cards) or + Magic (Spell Cards) + Perform (Grazing) Fly Efficient (Bullet-Barrages) . Once per Battle, when hit with an Attack that would K.O. you, make a Magic or Perform check: Great!: Negate the Attack, and use a technique as a free action. The technique's cost is considered doubled for this use, and must cost more than 0 FP (and must be payable), but can also be an MP-costing technique from a spell card [Elive] in your inventory (The spell card is used up for this, but is not triggered fully). If neither apply, the attack still goes through. Weakness (Air, Aerial) You must make a Steady check versus Disorientation (1), lasting a number of turns equal to the damage taken (minimum 1 turn). Remove Specializations in Athletics, Guard, Persuade; Remove any remaining specializations from the final species until you have at most 3. Hover Resistance (Air, Aerial) Immune (Air, Aerial) . Added Tech Defaults . All Kit [Elive] Ranged Optional: Variant (Perform) or Variant (Magic) on Ranged attacks. Minion . Removed Tech Defaults . Flowery Secure Underfoot . Conditions . N/A . ",
+    "url": "/homebrew/species/elive_assorted_species#bullet-artist-touhou-lenen-etc",
+    
+    "relUrl": "/species/elive_assorted_species#bullet-artist-touhou-lenen-etc"
+  },"98": {
+    "doc": "Elive's Assorted Species",
+    "title": "Hue Sorcerer (Puyo Puyo)",
+    "content": ". Magic-users of a special archetype that are quite competitive. Through a process typically reserved for mono-colored jelly creatures, these magicians can line up and extract magical power from entities of the same color to charge devastating attacks on opponents. [Class Archetype] . +1 Spirit, -1 Heart . Add . + Magic (Colors) + Knowhow (Puzzles) + Bully (Daze) Efficient (Swapping) . When targeting at least 3 adjacent enemies of the same prominent color (eg. Red shelled koopa, red cheep-cheep, cherry bob-omb), you roll 1 extra die for the checks + 1d6 for every extra applicable enemy beyond the minimum 3. Weakness (Multi-Hit) Subsequent Attacks from a single enemy in a single turn deal +2 damage if the damage from the previous attack wasn't completely blocked. Remove Specializations in Athletics, Guard, Steady; Remove any remaining specializations from the final species until you have at most 3. Added Tech Defaults . Element (Colors) Optional: Element (Colors) on Ranged or Indirect Techniques. Swap Daze x2 Burst . Removed Tech Defaults . Hearty Flowery Underfoot Dismiss . Conditions . N/A . ",
+    "url": "/homebrew/species/elive_assorted_species#hue-sorcerer-puyo-puyo",
+    
+    "relUrl": "/species/elive_assorted_species#hue-sorcerer-puyo-puyo"
+  },"99": {
+    "doc": "Elive's Assorted Tech Traits",
+    "title": "Elive's Assorted Tech Traits",
+    "content": ". | Trait Effects . | [Custom] | . | Positive Technique Traits . | Kit (+2 FP) [Custom] [X] | Overclock (+1 FP) [Custom] [X - Cap 5] | Wild (+?? FP) [Target] [Random] | Exit (+2 FP) [X] [Secondary - Athletics/Trickery/Magic/Bully] | . | Negative Technique Traits . | Fleeting (-2 FP) [X] | . | . Whenever possible, Traits used elsewhere from this page will have the [Elive] suffix to indicate their origin. ",
+    "url": "/homebrew/techniques/elive_assorted_tech_traits",
+    
+    "relUrl": "/techniques/elive_assorted_tech_traits"
+  },"100": {
+    "doc": "Elive's Assorted Tech Traits",
+    "title": "Trait Effects",
+    "content": "Some Traits have similar functions which are referred to in shorthand, explained here. [Custom] . An aspect of this technique can be changed to suit the user's future needs. Such changes can typically only be made outside of tense situations. At GM's discretion however, this rule can be sidestepped with a proper check. ",
+    "url": "/homebrew/techniques/elive_assorted_tech_traits#trait-effects",
+    
+    "relUrl": "/techniques/elive_assorted_tech_traits#trait-effects"
+  },"101": {
+    "doc": "Elive's Assorted Tech Traits",
+    "title": "Positive Technique Traits",
+    "content": "Kit (+2 FP) [Custom] [X] . The technique's parameters can be slightly altered for different styles of action. Choose up to [XX] FP in the technique's other traits (besides default, optional, and required traits). During technique creation, The user can choose an alternate [XX] FP's worth of technique traits to be swapped with the selected traits when outside of tense situations (Applicable optional and required traits can also be swapped). You may have up to 3 different kits to choose from. Overclock (+1 FP) [Custom] [X - Cap 5] . The technique can be slowly, but easily, altered for more advanced use. Outside of tense situations, the user may choose a level between 0 to [X] for [Z]. Both checks required for this technique require [Z] extra grade(s) of success (As if it had Unwieldy), but on success: the total Raw Damage increases by [ZZ] and the technique automatically generates [Z] SP, but this extra SP cannot be used for exceptional techniques. Wild (+?? FP) [Target] [Random] . The user tries to attack any enemy they can with this technique, regardless of who it ends up being. Any potential target that can be reached from the user's current elevation (Regardless of who's in front of them) can be targeted, but fate (Be it GM's call or a dice roll) decides who ends up being targeted. This trait can be taken with other [Random] traits. If this technique is on a single-strike technique or a multi-strike technique meant for a single target, it costs +1 FP. If this technique is on a multi-strike technique meant for multiple targets, it costs +2 FP. Exit (+2 FP) [X] [Secondary - Athletics/Trickery/Magic/Bully] . The user attempts to remove certain targets from the field (Including themselves), even if they are not properly subdued yet. If this is attempted on non-willing targets, it automatically requires an extra grade of success for every 5 HP they still have, but should it succeed, you may assign any extra grades of success to another target that would now be in range to attempt to remove them as well, up to a maximum of [X] targets. Enemy targets who leave combat this way do not count to potential rewards (Star Points, Coins, Items, # of Enemies KO'ed statistics). Depending on how this check is executed narratively, the technique may allow for the targets to travel a certain distance without needing to worry about checks (Such as back to a previously known safe location). ",
+    "url": "/homebrew/techniques/elive_assorted_tech_traits#positive-technique-traits",
+    
+    "relUrl": "/techniques/elive_assorted_tech_traits#positive-technique-traits"
+  },"102": {
+    "doc": "Elive's Assorted Tech Traits",
+    "title": "Negative Technique Traits",
+    "content": "Fleeting (-2 FP) [X] . (Meant for Champion Techniques) . The user expends a bit of the energy keeping them tied to the world when using this technique. When this technique is used, the turns remaining for the summoned champion is reduced by [X]. The technique can't be used if their number of remaining turns is less than [X], and the champion is immediately de-summoned after the technique if it leads to them having 0 turns left. ",
+    "url": "/homebrew/techniques/elive_assorted_tech_traits#negative-technique-traits",
+    
+    "relUrl": "/techniques/elive_assorted_tech_traits#negative-technique-traits"
+  },"103": {
+    "doc": "Tags",
+    "title": "Tag cloud",
+    "content": "The tag cloud lists all used tags in alphabetical order. The size of the text is related to the number of times the tag is used; the exact number is shown on the tag pages, and in the list below. If you would like to suggest a new tag, feel free to open a new issue and ask about it ! . badges gear species status subspecies techniques traits . ",
+    "url": "/homebrew/tag/#tag-cloud",
+    
+    "relUrl": "/tag/#tag-cloud"
+  },"104": {
+    "doc": "Tags",
+    "title": "Tag index",
+    "content": "#badges 1 uses. Articles about badges, or adding new badges. #gear 1 uses. Articles about gear, or adding new gear. #species 3 uses. Articles about species, or adding new species. #status 1 uses. Articles about status conditions, or adding new status conditions. #subspecies 1 uses. Articles about subspecies, or adding new subspecies. #techniques 1 uses. Articles about techniques, or adding new techniques. #traits 1 uses. Articles about Techniques traits, or adding new traits. Personal Traits is a different tag. Used tags: 7 of 7 . ",
+    "url": "/homebrew/tag/#tag-index",
+    
+    "relUrl": "/tag/#tag-index"
+  },"105": {
+    "doc": "Tags",
+    "title": "Tags",
+    "content": " ",
+    "url": "/homebrew/tag/",
+    
+    "relUrl": "/tag/"
+  },"106": {
+    "doc": "Contributors",
+    "title": "Contributor index",
+    "content": "Elive 3 articles. Flaws 1 articles. Lucy 4 articles. Meï 0 articles. Active users: 3 of 4 . ",
+    "url": "/homebrew/contributor/#contributor-index",
+    
+    "relUrl": "/contributor/#contributor-index"
+  },"107": {
+    "doc": "Contributors",
+    "title": "Elive",
+    "content": "... Articles: 3 . | Elive's Assorted Badges - (By Elive) . | Elive's Assorted Species - (By Elive) . | Elive's Assorted Tech Traits - (By Elive) . ",
+    "url": "/homebrew/contributor/#elive",
+    
+    "relUrl": "/contributor/#elive"
+  },"108": {
+    "doc": "Contributors",
+    "title": "Lucy",
+    "content": "... | . Articles: 4 . | Charged - (By Lucy) . | Elements in Detail - (By Lucy) . | Max &amp; Miracle Gear - (By Lucy) . | Partner System - (By Lucy) . | . ",
+    "url": "/homebrew/contributor/#lucy",
+    
+    "relUrl": "/contributor/#lucy"
+  },"109": {
+    "doc": "Contributors",
+    "title": "Contributors",
+    "content": " ",
+    "url": "/homebrew/contributor/",
+    
+    "relUrl": "/contributor/"
+  },"110": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Welcome to the Homebrew Wiki for Paper Story TTRPG ! . Paper Mario, Mario and all related properties are a trademark of Nintendo. Nintendo does not sponsor, authorise or endorse Paper Story. Currently WIP . ",
+    "url": "/homebrew/",
+    
+    "relUrl": "/"
+  },"111": {
+    "doc": "Items/Gear/Badges",
+    "title": "Items/Gear/Badges",
+    "content": " ",
+    "url": "/homebrew/inventory",
+    
+    "relUrl": "/inventory"
+  },"112": {
+    "doc": "Max & Miracle Gear",
+    "title": "Max &amp; Miracle Gear",
+    "content": "Some games sometimes need to go higher when it comes to power levels, and for this reason, Lucy created some new Ranks of Gear to go beyond Ultra, called Miracle and Max. Miracle Gear . • Costs 1200 Coins . | Grants either +3 Power (when wielded as a Weapon), +3 Defense (when carried as a Shield or worn as Armour), or +3 to a Stat. | Adds +3d6 to appropriate checks. | Grants the user three new Techniques using the Gear. These Techniques can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots). Regardless of the user's level, only 6 Traits can be used to reduce the Technique's FP cost. | Traits can be added for a further 100 Coins each, with their numerical values values (e.g. Resist, HP healed with Immune, Contact damage) beginning at 1. Each numerical effect of a Trait can be increased, 1 point at a time, for another 100 Coins. | . Max Gear . • Costs 1500+ Coins . | Grants the user a specific ability related to the Gear decided upon by the GM. If made by a Player through Crafting, they work with the GM to make an appropriate ability. | Grants either +3 Power (when wielded as a Weapon), +3 Defense (when carried as a Shield or worn as Armour), or +3 to a Stat. | Adds +3d6 to appropriate checks. | Grants the user three new Techniques using the Gear. These Techniques can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots). Regardless of the user's level, only 6 Traits can be used to reduce the Technique's FP cost. | Grants the user a fourth Technique using the Gear in the form of a Basic Gear Technique. | Traits can be added for a further 250 Coins each, with their numerical values values (e.g. Resist, HP healed with Immune, Contact damage) beginning at 1. Each numerical effect of a Trait can be increased, 1 point at a time, for another 250 Coins. | . ",
+    "url": "/homebrew/inventory/max_miracle_gear#max--miracle-gear",
+    
+    "relUrl": "/inventory/max_miracle_gear#max--miracle-gear"
+  },"113": {
+    "doc": "Max & Miracle Gear",
+    "title": "Max & Miracle Gear",
+    "content": " ",
+    "url": "/homebrew/inventory/max_miracle_gear",
+    
+    "relUrl": "/inventory/max_miracle_gear"
+  },"114": {
+    "doc": "Other",
+    "title": "Other Homebrew Things",
+    "content": " ",
+    "url": "/homebrew/other#other-homebrew-things",
+    
+    "relUrl": "/other#other-homebrew-things"
+  },"115": {
+    "doc": "Other",
+    "title": "Other",
+    "content": " ",
+    "url": "/homebrew/other",
+    
+    "relUrl": "/other"
+  },"116": {
+    "doc": "Partner System",
+    "title": "Partner System",
+    "content": "These are the rules I use for running Partners in the Campaigns that I run, be they Play-By-Post or otherwise. To unlock Partners to fill out your Party, you have two options. 1) You can find an NPC somewhere in the world that you like, and convince them to join you on your adventure. This requires a Persuade (or Bully if you want to coerce them through fear instead) Check, requiring at least a Good! to succeed. For every Partner you already have, the required Grade of Success needed increases by one. Keep in mind, some Partners may be more difficult to unlock than others. 2) Build a character following the rules below, which then the GM can place that character somewhere in the world for you to find. This option will let you unlock a Partner without rolling a Skill Check, however, it's entirely up to the GM to let you find them in the first place. If they don't want you to have the Partner or you just never look in the right place, you just won't get the Partner. When it comes to building Characters to use a Partner, it's very similar to building a Level 1 Player Character. The only difference is their starting HP, FP, BP, SP, the number of Negative Traits each Technique is allowed to benefit from, and their Inventory. On top of this, their Level is referred to as a Rank and can only reach as high as Level 4, to most accurately match the Partners from the first two Paper Mario games (A fourth and fifth Rank being added to match the progression of Mushroom based Items in some of the games). Their Rank progression looks as follows: . Basic Rank . Known Techniques: 2 . # of Negative Traits per Technique: 4 . Bonus to Basic Rank's Power: +0 . Maximum HP based on perceived Role: . | DPS: 10 | Tank: 15 | Support: 10 | . Super Rank . Known Techniques: 3 . # of Negative Traits per Technique: 5 . Bonus to Basic Rank's Power: +1 . Maximum HP based on perceived Role: . | DPS: 15 | Tank: 25 | Support: 20 | . Ultra Rank . Known Techniques: 4 . # of Negative Traits per Technique: 6 . Bonus to Basic Rank's Power: +2 . Maximum HP based on perceived Role: . | DPS: 25 | Tank: 35 | Support: 30 | . Miracle Rank . Known Techniques: 4 . # of Negative Traits per Technique: 7 . Bonus to Basic Rank's Power: +3 . Maximum HP based on perceived Role: . | DPS: 35 | Tank: 45 | Support: 40 | . Max Rank . Known Techniques: 4 . # of Negative Traits per Technique: 8 . Bonus to Basic Rank's Power: +4 . Maximum HP based on perceived Role: . | DPS: 45 | Tank: 55 | Support: 50 | . ",
+    "url": "/homebrew/other/partner_system",
+    
+    "relUrl": "/other/partner_system"
+  },"117": {
+    "doc": "Partner System",
+    "title": "Number of Techniques known",
+    "content": "A Player Character can only have up to 4 Techniques through Leveling Up (2 at first Level, 3 at fifth, and 4 for any Level over 10). The same is true for Partners as well, except they gain a new one at each Rank instead, until they reach Miracle Rank. ",
+    "url": "/homebrew/other/partner_system#number-of-techniques-known",
+    
+    "relUrl": "/other/partner_system#number-of-techniques-known"
+  },"118": {
+    "doc": "Partner System",
+    "title": "# of Negative Traits per Technique",
+    "content": "A Player Character can only save on FP Costs from a number of Negative Traits equal to 3 + (½ their Level). Since a Partner's effective Max Level is only 5, and them Ranking Up is much less common than a Player Character Leveling up, they get to save on FP Costs from a number of Negative Traits equal to 3 + (their Level). ",
+    "url": "/homebrew/other/partner_system#-of-negative-traits-per-technique",
+    
+    "relUrl": "/other/partner_system#-of-negative-traits-per-technique"
+  },"119": {
+    "doc": "Partner System",
+    "title": "Bonus to Basic Rank's Power",
+    "content": "A Player Character gains a bonus to their Power as they Level Up (+1 at 5th Level, +2 at 10th, +3 at 15th Level, etc). The same is true for Partners as well, gaining +1 to their base Power whenever they Rank Up, no matter what that base Power initially was. ",
+    "url": "/homebrew/other/partner_system#bonus-to-basic-ranks-power",
+    
+    "relUrl": "/other/partner_system#bonus-to-basic-ranks-power"
+  },"120": {
+    "doc": "Partner System",
+    "title": "Maximum HP based on perceived Role",
+    "content": "A Partner doesn't gain HP based on their Heart, instead they are assigned a role by the DM based on what their percieved functionality is. Their Maximum HP each Rank is based on this role, usually, but not always increasing by +10 HP each Rank. A DM may adjust these numbers, or even make new roles, as best befits the situation and Parnter at hand. A Partner can only Rank Up by offering Shine Sprites, Power Stars, Power Moons, Super Blocks, or other similarly powerful Items to someone who can harness their power, like Shamans, Merlon being the prime example. As for their FP, BP, and SP, they must use the Player Character's for whom they are the Partner of. You can equip Badges to them using your BP, each Badge applying to the specific Partner it is equipped to, P versions of Badges applying to all your Partners instead. Example: P Badges . You have two Partners named Tom and Jerry and 6/6 BP to spend on equiping Badges. Normally you could use that BP to equip a Power Plus Badge to yourself, but when equipping the Badge, you could instead assign it to one of your Partners, and grant, let's say Jerry the +1 Power instead. In this instance, only Jerry gets the +1 Power, you and Tom do not. If you had a Power Plus P Badge instead, when you equip it, you don't assign it at all. You are never elegible for the effects of a P Badge, instead, both Tom, Jerry, and any other Partners you might gain in the future, benefit from the +1 Power. Similarly, Partners can have Gear equipped to them, and some may even come with Basic Gear tied to their [Tool] Techniques. Such Gear is so generic and handwavey, it doesn't require Inventory Slots. However, if you wish to get them better Gear, or swap out their Gear entirely for something else, they do not have an Inventory of their own to hold such things, instead taking up space in the Inventory of the Player Character. Due to this, they also cannot carry any Items, but can use Items from the Inventory of the Player Character they are the Partner of instead. In regards to FP and SP, since they do not have FP and SP of their own, they can not restore either of these stats. If an effect would restore the FP and/or SP of a Partner, but not the Player Character, the Player Character's FP and/or SP is restored instead. If an effect would restore the FP and/or SP of both the Partner and Player Character, the Player Character's FP and/or SP is, however, only restored once. In addition to this, Partners can use the SP generated for Exceptional Results to improve the effect of their Technique being used instead of having it restore the Player Character's SP. Finally, when being assisted in a Skill Check, you may only have one Partner assist you on any given Check, so it is better to gather a wider variety of Partners rather than building a coven of all high Magic users. ",
+    "url": "/homebrew/other/partner_system#maximum-hp-based-on-perceived-role",
+    
+    "relUrl": "/other/partner_system#maximum-hp-based-on-perceived-role"
+  },"121": {
+    "doc": "Personal Traits",
+    "title": "Homebrew Personal Traits",
+    "content": " ",
+    "url": "/homebrew/personal_traits#homebrew-personal-traits",
+    
+    "relUrl": "/personal_traits#homebrew-personal-traits"
+  },"122": {
+    "doc": "Personal Traits",
+    "title": "Personal Traits",
+    "content": " ",
+    "url": "/homebrew/personal_traits",
+    
+    "relUrl": "/personal_traits"
+  },"123": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Paper Story @SAGE2025",
+    "content": ". | Species . | Mobian | . | Subspecies . | Speed-Type- | Power-Type- | Fly-Type- | . | Example Characters . | Sonic the Hedgehog | Tails \"Miles\" Prower | Cream the Rabbit | Metal Sonic | Mecha Sonic Mark II | Dr Ivo \"Eggman\" Robotnik | . | On Star Power . | Emerald Power specific abilities | . | Inventory . | Items | Badges . | Spin Dash | Ring Defense | Emerald Drain | Slingshot Carrier | Team Blast | Team Move | . | . | . As a way to celebrate trying to get Paper Story a booth for SAGE2025, the community has come together to create a small collection of Sonic-themed homebrew content for the game, including Species, new expanded Rules, and more! . While this content is not official, Deuce himself participated in a good chunk of it, and we can proudly present it to you all! . ",
+    "url": "/homebrew/sage_2025",
+    
+    "relUrl": "/sage_2025"
+  },"124": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Species",
+    "content": "As a way to encompass the wide variety of characters seen in the Sonic franchise, and offer a good framework for players to create OCs that fit the Sonic-style, we decided to create a unique \"Mobian\" species, with a number of options to customise them to your liking. ",
+    "url": "/homebrew/sage_2025#species",
+    
+    "relUrl": "/sage_2025#species"
+  },"125": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Mobian",
+    "content": ". Mobians are the most common inhabitants of Sonic's World, anthropomorphic animals with a variety of appearances and abilities. While most Mobians take from real-world mammals, they can also include birds, reptiles, and even aquatic creatures. While not all Mobians are fighters by trade, their culture has for long been deeply intertwined with conflicts on a global scale, leading to a strong warrior ethos among many, and the courage to stand up against oppression. +1 Any Stat, +1 Courage 1 Power, 0 Defense . At character creation, define the Mobian's specific animal type, as it will help determine their abilities and traits. Pros + Athletics (Any) Must be chosen at character creation. Examples include Brawn, Jump, Run… + Notice (Details) or + Notice (Distant Vision) or + Notice (Listen) or + Notice (Scent) + Steady (VS Fear) Up to 2 of the following: 1 Resist (Element) This Element must be specified during character creation. This can be chosen twice with either the same or a different element. Adapted (Any), Carrier, Fly, Hover or Resilient Depending on what could makes sense for your character species. The type of Adapted must be specified during character creation. Cons Sinker Unless the character has either Adapted (to some Water environment) or Fly. Up to 2 of the following, and at least as much as you took Pros: Weakness (Confuse, Provoke) The Level and Duration of any of these Statuses inflicted on you is doubled. Weakness (Noise) The Level and Duration of all Statuses you suffer from sound-based sources is doubled. Weakness (Scent) The Level and Duration of all Statuses you suffer from scent-based sources is doubled. Tech Defaults . Aerial Tool Variant (Athletics) +1 Custom Set . Custom Sets are customisable Tech Defaults defined during character creation. For Mobians, they can include any Traits totalling no more than 2 FP, but can't include negative Traits. Example Techniques . Weapon Strike (0 FP) Attacks with a hand-held weapon. Coordination: (Primary Check) Auto: 1 DMG Nice!: 2 DMG Tool (Indirect) . Dust Up (2 FP) (Using Disorient as a Custom Set Tech Default) Kicks sand in the enemy's face with speed and force, temporarily blinding them! Athletics: (Secondary Check) Nice!: Disorients (1) for 4 turns. Good!: Disorients (2) for 4 turns. Great!: Disorients (3) for 4 turns. Wonderful!: Disorients (4) for 4 turns. Variant (Athletics), Disorient x4, Harmless (Indirect), Situational (Common: Unusable without soil, sand, etc.) . ",
+    "url": "/homebrew/sage_2025#mobian",
+    
+    "relUrl": "/sage_2025#mobian"
+  },"126": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Subspecies",
+    "content": "Subspecies are means to further customise a character. A bunch of them are already available in the core rulebook, but we thought that Sonic deserved some unique ones around a specific theme.. Here comes Speed-Type-, Power-Type- and Fly-Type- Subspecies! . ",
+    "url": "/homebrew/sage_2025#subspecies",
+    
+    "relUrl": "/sage_2025#subspecies"
+  },"127": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Speed-Type-",
+    "content": ". Speed-Type creatures have an affinity for speed that they can't control; in all avenues of life, they've just got to go fast, no matter the cost. e.g. Sonic; Espio . [Type] . +1 Spirit, -1 Courage . Add + Athletics (Run) + Trickery (Dodge) + Steady (Balance) Defense is reduced by 1 It also caps at 1 maximum. Hover If Fly is removed from the base species only. Devotion (to Speed) You cannot willingly use the Delayed Technique Traits in your Innate Techniques. Remove Fly Weakness (Air) . Added Tech Defaults . Boost (Athletics) Disorient Hustle + Required: When Hustle is added as a Tech Default, add either Self or Split. Only the user can be targeted with Hustle. Overrun Swap x2 . Conditions . Can't be combined with another [Type] subspecies. ",
+    "url": "/homebrew/sage_2025#speed-type-",
+    
+    "relUrl": "/sage_2025#speed-type-"
+  },"128": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Power-Type-",
+    "content": ". Power-Type creatures are rougher than the rest of them, even the best of them; they're much stronger than they appear and are not to be messed with. e.g. Knuckles; Vector . [Type] . -1 Spirit +1 Power . Add + Athletics (Brawn) or + Bully (Brawn) + Coordination (Brawl) + Steady (Poise) Carrier Hover If Fly is removed from the base species only. Remove Fly Weakness (Air, Earth, Crushing) . Added Tech Defaults . Launch Quake Throw Underfoot Weaken (Defense) . Conditions . Can't be combined with another [Type] subspecies. ",
+    "url": "/homebrew/sage_2025#power-type-",
+    
+    "relUrl": "/sage_2025#power-type-"
+  },"129": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Fly-Type-",
+    "content": ". Fly-Type creatures have conquered the skies, and are at home in the air. They can be a bit fragile on the ground, but they make up for it with their aerial prowess. e.g. Tails; Rouge . -1 Heart, +1 Spirit . [Type] . Add + Aim (Bombard) + Athletics (Fly) + Trickery (Dodge) + Steady (Turbulance) Carrier Hover . Remove Weakness (Air) . Added Tech Defaults . Aerial Bestow (Fly) Ranged Secure (High Flying) . Conditions . Can't be combined with another [Type] subspecies. Final species must have Fly, Efficient (Flight) or + Magic (Flight). You can always combine multiple Subspecies as long as you fit all the conditions to apply them, and the character's final Stats aren't reduced below 0. My Metal Sonic is a great example of this! He's a Speed-Type-, Metal- Mobian! . It can even make a big difference. Metal's sibling, Mecha Sonic Mark II is a Power-Type-, Mecha- Mobian. I even gave him a Specialization in GUNS! . ",
+    "url": "/homebrew/sage_2025#fly-type-",
+    
+    "relUrl": "/sage_2025#fly-type-"
+  },"130": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Example Characters",
+    "content": "Here are some example characters made using the Mobian species and Subspecies! They're made as Level 1 characters, and hopefully can inspire you. Most of them also come as Google Sheets versions, so you can more easily copy them if you intend to use them. ",
+    "url": "/homebrew/sage_2025#example-characters",
+    
+    "relUrl": "/sage_2025#example-characters"
+  },"131": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Sonic the Hedgehog",
+    "content": ". Character by @plusdeuce Google Sheets . HP: 10 / 10 FP: 15 / 15 BP: 2 / 3 SP: 10 / 10 Level: 1 . Heart: 2 Spirit: 3 Courage: 1 Power: 1 Defense: 0 . Mobian (Speed-Type), Blue . Aim: 0 Athletics: 4 (+Run, +Spin) Coordination: 0 Guard: 0 Heal: 0 . Crafts: 0 Knowhow: 0 Magic: 0 Notice: 1 (+Shortcuts) Trickery: 2 (+Dodge) . Bully: 0 Cheer: 0 Perform: 1 (+Stylish Moves) Persuade: 0 Steady: 1 (+VS Fear, +Balance) . Resilient You can recover from KO with a Nice Steady check, reviving back up to 5 HP. An extra Grade allows you to act immediately! Required Grades incrase by 1 for each Resilient check made during an encounter. Weakness (Scent) The Level and Duration of all scent-based Statuses inflicted on you is doubled. Sinker Can't swim. Devotion (to Speed) You cannot willingly use the Delayed Technique Traits in your Innate Techniques. Tech Defaults . Boost (Athletics) Aerial Disorient Overrun . Innate Techniques . Spin Jump (0 FP) Leaps through the air with blinding speed, homing in and piercing through enemy defenses! . While hurtling through a Gale, this attack gains the Air element. Under the effects of Sonic's own slipstream, this results in a bonus +2 Attack! . Athletics (+Spin): Good!: 1 Homing Piercing DMG Great!: 2 Homing Piercing DMG Aerial, Homing, Piercing, Unwieldy x2 + Conditional (Must be in Gale Terrain): Element (Air) . Rushing the Slipstream (5 FP) Boosts through the enemy at mach speed, leaving a slipstream in his wake! . This causes a Gale Terrain to form around Sonic and all grounded foes in the enemy group. It may also leave the enemy Disoriented. Athletics (+Run): Good!: 2 DMG Trickery: Good!: Gale Terrain (2) for 3 rounds, Disorient (1) for 2 turns. Overrun, Disorient, Lengthen, Shared, Terrain (Gale) x2, Variant (Athletics), Commitment (Primary, Secondary), Unwieldy . Badges . Timing Tutor BadgeSkills • 1 BP . Adds +1d6 to Stylish Moves checks. I'm Sonic! Sonic the Hedgehog! I'm in a strange new place with all sorts of weird creatures. No doubt about it, Eggman's behind this! I'd better track him down, and fast! . ",
+    "url": "/homebrew/sage_2025#sonic-the-hedgehog",
+    
+    "relUrl": "/sage_2025#sonic-the-hedgehog"
+  },"132": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Tails \"Miles\" Prower",
+    "content": ". Character by @piyohthegenius . HP: 5 / 5 FP: 15 / 15 BP: 6 / 6 SP: 10 / 10 Level: 1 . Heart: 1 Spirit: 3 Courage: 2 Power: 1 Defense: 0 . Mobian (Fly-Type), Yellow . Aim: 2 (+Bombard) Athletics: 1 (+Fly) Coordination: 0 Guard: 0 Heal: 0 . Crafts: 2 (+Gadgets) Knowhow: 2 (+Tattling) Magic: 0 Notice: 0 Trickery: 0 (+Dodge) . Bully: 0 Cheer: 2 (+Rally) Perform: 0 Persuade: 0 Steady: 0 (+Turbulance) . Fly Hover Carrier Weakness (Scent) The Level and Duration of all scent-based Statuses inflicted on you is doubled. Tech Defaults . Aerial Tool Secure (High Flying) Boost (Crafts) . Innate Techniques . Sky Drop (0 FP) Grabs a target, then drops them down onto another. Aim (+Bombard): Good!: 2 DMG Aerial, Throw x2, Commitment (Primary), Unwieldy (Primary) . Tails' Tips (1 FP) Puts in extra effort in coming up with inventive ideas, boosting Crafts for himself or an ally by giving them so neat tips on crafting. Crafts: Nice!: Boosts (Crafts) (1) for 3 turns. Good!: Boosts (Crafts) (2) for 3 turns. Great!: Boosts (Crafts) (3) for 3 turns. Boost (Crafts) x3, Harmless . Gear Techniques . Bomb Lob (0 FP) From Napalm . Tosses a bomb at an enemy that explodes into a burst of fire, dealing both Blast and Fire damage. Aim: Nice!: 1 Blast Fire DMG Good!: 2 Blast Fire DMG Tool (Ranged), Element (Blast), Element (Fire), Unwieldy (Primary) . Energy Shot (0 FP) From Energy Cannon . Fires an electric ball from an arm cannon. Aim: Nice!: 1 Shock DMG Good!: 2 Shock DMG Tool (Ranged), Element (Shock), Unwieldy (Primary) . Heal (0 FP) From Healing Machine . Uses a healing machine to restore HP. Heal: Nice!: +2 HP Good!: +4 HP Great!: +6 HP Wonderful!: +8 HP Hearty x4, Harmless (Indirect) . Inventory . Napalm GearBasicWeapon . A small bomb that explodes into a small wall of fire when it explodes. Gives access to the Bomb Lob Gear Technique. Tool (Ranged) Tech Default . Energy Cannon GearBasicWeapon . An arm cannon that fires electrical shots. Gives access to the Energy Shot Gear Technique. Tool (Indirect) Tech Default . Healing Machine GearBasicGadget . A small drone with healing capabilities. Gives access to the Heal Gear Technique. Hearty Tech Default . ",
+    "url": "/homebrew/sage_2025#tails-miles-prower",
+    
+    "relUrl": "/sage_2025#tails-miles-prower"
+  },"133": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Cream the Rabbit",
+    "content": ". Character by @meineeds.rest Google Sheets . HP: 5 / 5 FP: 10 / 10 BP: 7 / 9 SP: 10 / 10 Level: 1 . Heart: 1 Spirit: 2 Courage: 3 Power: 1 Defense: 0 . Mobian (Fly-Type), Beige . Aim: 0 Athletics: 2 (+Fly) Coordination: 0 Guard: 0 Heal: 1 (+Pure Heart) . Crafts: 0 Knowhow: 0 Magic: 0 Notice: 2 (+Listen, +Lies) Trickery: 0 (+Dodge) . Bully: 0 Cheer: 2 (+Summoning) Perform: 1 Persuade: 0 Steady: 1 (+VS Fear) . Fly Carrier Hover Resilient You can recover from KO with a Nice Steady check, reviving back up to 5 HP. An extra Grade allows you to act immediately! Required Grades incrase by 1 for each Resilient check made during an encounter. Weakness (Noise) The Level and Duration of all Statuses you suffer from sound-based source is doubled. Weakness (Confuse, Provoke) The Level and Duration of any of these Statuses inflicted on you is doubled. Tech Defaults . Aerial Ranged Minion Secure (High Flying) . Innate Techniques . A-Are you okay?! (0 FP) Prays for someone's well-being, reassuring herself in the process. Heal (+Pure Heart): Good!: Heals 4 HP to the Target and You. Great!: Heals 6 HP to the Target and You. Hearty x3, Empower, Shared, Harmless, Others, Unwieldy . Help me, Cheese! (2 FP) Summons your trusted Cheese Chao (and sometimes even Chocolat!) as an ally to fight alongside you. The Chao can't attack on the turn they're called, and they stay up for 4 rounds, unless something happens to them.. Cheer (+Summoning): Nice!: Calls Cheese Chao to the field Good!: Calls Cheese and Chocolat Chao to the field Great!: Calls Super Cheese to the field; or both Cheese and Chocolat Chao . Tier 1: Cheese Chao (Or Chocolat Chao) . 5 HP, 1 Power, 1 Defense . Chao Rush: The Chao rushes towards the enemy, and hits them with their tiny fists, at quick speed, dealing 4 DMG. (Strong) . Fly Weakness (Air) +2 damage and becomes Disoriented (1) for turns equal to damage. Budget usage (5/5 points): 2 Points: HP, 1 Point: Power, 0 Points: Defense, 2 Points: Technique, 0 Points: Traits . Tier 3: Super Cheese . 9 HP, 2 Power, 2 Defense . Dizzy Punch: Cheese winds up a wicked punch against whoever tries to harm Cream, unleashing it next turn, dealing 10 Piercing DMG and Dazing (2) the target for 2 turns. (Strong x3, Daze x2, Piercing, Delayed, Exhausting) . Resilient Fly Weakness (Air) +2 damage and becomes Disoriented (1) for turns equal to damage. Budget usage (15/15 points): 4 Points: HP, 2 Points: Power, 2 Points: Defense, 5 Points: Technique, 2 Points: Traits . Minion x3, Lengthen, Harmless, Limitation (-2FP: No summon from this Technique already on the field) . Badges . Super Appeal BadgeSkills • 1 BP . Adds +1d6 to Appeal checks. Last Stand BadgeDefense • 1 BP . When you have 5 or less HP, incoming attacks deal 1/2 as much Raw Damage. ",
+    "url": "/homebrew/sage_2025#cream-the-rabbit",
+    
+    "relUrl": "/sage_2025#cream-the-rabbit"
+  },"134": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Metal Sonic",
+    "content": ". Character by @lucydndprincess Google Sheets . HP: 15 / 15 FP: 0 / 0 BP: 4 / 6 SP: 10 / 10 Level: 1 . Heart: 3 Spirit: 0 Courage: 2 Power: 1 Defense: 0 . Mobian (Speed-Type, Metal), Blue . Aim: 0 Athletics: 2 (+Hover, +Fly) Coordination: 0 Guard: 2 (+Melee) Heal: 0 . Crafts: 0 Knowhow: 0 Magic: 0 Notice: 2 (+Details, +Tattling) Trickery: 0 . Bully: 0 Cheer: 0 Perform: 0 Persuade: 0 Steady: 3 (+VS Fear, +Resilient) . Immune (Fire, Water) Your form softens, Weakening your Defense and Resist traits for a duration equal to the damage taken. The Status Level begins at 1, and increases by 1 each time this is triggered, until the status is recovered from. If your Defense and Resist traits are reduced to 0 by this status, treat this trait as Weakness (Fire, Water) for the duration instead. Immune (Poison) +2 Resist (Air, Blast, Earth, Ice) Hover Resilient Construct (Lifelike) Weakness (Confuse, Provoke) The Level and Duration of any of these Statuses inflicted on you is doubled. Weakness (Shock) You take on a Contact Trait, dealing Piercing Shock damage. The damage and duration are both equal to ½ the damage taken (minimum 1) Devotion (to Speed) You cannot willingly use the Delayed Technique Traits in your Innate Techniques. Sinker . Tech Defaults . Variant (Athletics) Boost (Defense) x2, Self Secure (Metal Form) Hustle . Required: When Hustle is added as a Tech Default, add either Self or a single Split Slot (which can't contain Strikes). Only the user can be targeted with Hustle. Innate Techniques . Ramping Speeds (0 FP) Slam into your target, then build up speed for your next attack. Athletics: Good!: 2 DMG to the target Athletics: Nice!: Your are Hustled (1) for 1 turn. Variant (Athletics), Commitment (Primary), Unwieldy, Limitation (Can't use Exceptional Techniques to change this Technique) + Split Slot (Hustle, Self) . Black Shield (0 FP) Protect yourself from all attacks. Guard: Good!: You become Secured and Immune to Fire, Shock and Water for 1 Turn. Secure, Bestow x3, Harmless, Self, Unwieldy . Badges . Peekaboo BadgeSkills • 2 BP . Once per turn, you can make a Notice check as a free action. For each Grade of Success, you can choose one enemy and learn their current and max HP. ",
+    "url": "/homebrew/sage_2025#metal-sonic",
+    
+    "relUrl": "/sage_2025#metal-sonic"
+  },"135": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Mecha Sonic Mark II",
+    "content": ". Character by @lucydndprincess Google Sheets . HP: 15 / 15 FP: 5 / 5 BP: 0 / 0 SP: 10 / 10 Level: 1 . Heart: 3 Spirit: 1 Courage: 0 Power: 3 Defense: 0 . Mobian (Power-Type, Mecha), Blue . Aim: 1 (+Guns) Athletics: 3 (+Brawn, +Jump) Coordination: 0 Guard: 0 Heal: 0 . Crafts: 0 Knowhow: 0 Magic: 0 Notice: 2 (+Details, +Tattling) Trickery: 0 . Bully: 0 Cheer: 0 Perform: 0 Persuade: 0 Steady: 3 (+VS Fear, +Resilient) . Immune (Charm, Fear, Poison, Provoke, Sleep) +1 Resist (Air, Blast, Earth, Magic) Hover Resilient Construct Weakness (Shock, Water) You take +2 damage and become Confused (1) for a number of turns equal to the damage taken (minimum 1 turn). Sinker . Tech Defaults . Aerial Element (Blast) Element (Shock) Tool (Built-In) . Optional: Element (Blast) on Indirect or Ranged attacks, or Element (Shock) on attacks. Innate Techniques . Spin Jump (0 FP) Curl into a spiky ball in the air and slam into a target of your choice. Athletics (+Jump): Nice!: 6 DMG to the target Aerial, Indirect, Commitment . Shock Dash (4 FP) Coat yourself in electricity, rev up your wheels, and slam through your opponents. Athletics: Nice!: 6 Shock Damage to all enemies at your elevation. Element (Shock), Variant (Athletics), Indirect, Overrun, Commitment . ",
+    "url": "/homebrew/sage_2025#mecha-sonic-mark-ii",
+    
+    "relUrl": "/sage_2025#mecha-sonic-mark-ii"
+  },"136": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Dr Ivo \"Eggman\" Robotnik",
+    "content": ". Character by @plusdeuce Google Sheets . HP: 15 / 15 FP: 15 / 15 BP: 0 / 0 SP: 10 / 10 Level: 1 . Heart: 3 Spirit: 3 Courage: 0 Power: 2 Defense: 0 . Human (Bulky), Red . Aim: 0 Athletics: 1 (+Brawn) Coordination: 1 (+Pilot) Guard: 1 Heal: 0 . Crafts: 2 (+Machinery) Knowhow: 1 (+Machinery) Magic: 0 Notice: 0 (+Traps) Trickery: 1 (+Bluffs) . Bully: 2 (+Shove) Cheer: 0 Perform: 0 Persuade: 0 Steady: 0 . Carrier Eggman can carry those scrawny fools around with ease! . Tech Defaults . Bestow Minion Throw Tool . Required: Unwieldy (Primary) on attacks. Innate Techniques . Throw Down (0 FP) Once he's back into a corner, Eggman opts to get his hands dirty. Grabs and throws an enemy in melee into the closest other target, damaging them both. Athletics (+Brawn): Nice!: 2 DMG Good!: 4 DMG Throw, Unwieldy . Badnik Barrage (5 FP) Eggman's constantly working on his Badniks, and is ready to deploy them at a moment's notice. A genius must be able to concentrate, though; deploying minions prevents Eggman from acting next turn. The Badniks don't attack on the turn they're deployed, and persist for 3 rounds afterwards – if they don't get scrapped first… . Crafts (+Machinery): Nice!: Deploys one Egg Pawn Good!: Deploys one Buzz Bomber; or Deploys two Egg Pawns Great!: Deploys one Crabmeat; or Deploys three Egg Pawns Wonderful!: Deploys one Orbinaut; or Deploys two Buzz Bombers; or Deploys four Egg Pawns . Tier 1: Egg Pawn . 3 HP, 1 Power, 1 Defense . Attacks in melee with an Egg Spear for 2 DMG; can reach airborne foes with ease. (Reach, Tool (Indirect)) . Construct Weakness (Shock) +2 damage and becomes Confused (1) for turns equal to damage. Budget usage (5/5 points): 1 Point: HP, 1 Point: Power, 1 Point: Defense, 2 Points: Technique, 0 Points: Traits (Construct, Weakness) . Tier 2: Buzz Bomber . 5 HP, 1 Power, 1 Defense . Attacks from above with a ranged blast, dealing 6 DMG. (Strong x2, Ranged, Situational (Common: above Target)) . Fly Construct Weakness (Shock) +2 damage and becomes Confused (1) for turns equal to damage. Budget usage (10/10 points): 2 Points: HP, 1 Point: Power, 1 Point: Defense, 4 Points: Technique, 2 Points: Traits (Fly, Construct, Weakness) . Tier 3: Crabmeat . 7 HP, 1 Power, 1 Defense . Scuttles up and fires two shots either side, dealing 4 DMG to two adjacent targets. (Ranged, Scaling, Strong, Split (2nd Strike), Limitation (-1FP: Adjacent targets only)) . Construct 1 Resist (Water) Adapted (Water) Sinker Weakness (Shock) +2 damage and becomes Confused (1) for turns equal to damage. Budget usage (15/15 points): 3 Points: HP, 1 Point: Power, 1 Point: Defense, 8 Points: Technique, 2 Points: Traits . Tier 4: Orbinaut . 7 HP, 2 Power, 2 Defense . Becomes Secure on its turn and prepares to counter melee attackers. Deals 18 Piercing DMG to the next person to strike it in melee. Can't act for a turn afterwards – giving their enemies an opening. (Counter (Secure), Piercing, Scaling, Strong x4, Exhausting, Self) . Hover Construct 1 Resist (Blast) Sinker Weakness (Shock) +2 damage and becomes Confused (1) for turns equal to damage. Budget usage (20/20 points): 3 Point: HP, 2 Points: Power, 2 Points: Defense, 11 Points: Technique, 2 Points: Traits . Minion x4, Variant (Crafts), Exhausting, Harmless, Shorten . Gear Techniques . Egg Wrecker (0 FP) From Egg Mobile Mk1 . Swings a hefty wrecking ball from the base of the Egg Mobile! . Coordination (+Pilot): Nice!: 3 DMG Good!: 6 DMG Tool (Indirect), Strong, Unwieldy . Inventory . Egg Mobile Mk1 GearBasicMech . The flagship of the Eggman Empire! Provides Fly and Hover while piloted, as well as access to the Egg Wrecker Technique. Despite its superior engineering, checks made to Fly can't score more than a Nice result. Also, it only has room for one in the cockpit. And no cup holder attachment? This won't do… . Tool (Indirect) Tech Default, Fly, Hover . ",
+    "url": "/homebrew/sage_2025#dr-ivo-eggman-robotnik",
+    
+    "relUrl": "/sage_2025#dr-ivo-eggman-robotnik"
+  },"137": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "On Star Power",
+    "content": "Star Power isn't necessarily applicable for a game taking place in Sonic's World, but there's an easy way to reflavour it! . The Star Element can simply become the Chaos Element, representing power similar to that of the Chaos Emeralds, or even the Emeralds themselves. Star Power (SP) itself can easily be reflavored as Emerald Power (EP). Every ability that would normally ask or fill Star Power can simply be changed to Emerald Power. It simply represents the inherent potential of every creature to manipulate Chaos Energy, even without the use of actual Chaos Emeralds, although they can certainly be used to reinforce the max Emerald Power of the group. ",
+    "url": "/homebrew/sage_2025#on-star-power",
+    
+    "relUrl": "/sage_2025#on-star-power"
+  },"138": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Emerald Power specific abilities",
+    "content": "// Something about using the Chaos Emeralds to do cool stuff, maybe even Super Forms in some way. ",
+    "url": "/homebrew/sage_2025#emerald-power-specific-abilities",
+    
+    "relUrl": "/sage_2025#emerald-power-specific-abilities"
+  },"139": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Inventory",
+    "content": "// New Items, Badges, Gear, etc. ",
+    "url": "/homebrew/sage_2025#inventory",
+    
+    "relUrl": "/sage_2025#inventory"
+  },"140": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Items",
+    "content": "// New Items . ",
+    "url": "/homebrew/sage_2025#items",
+    
+    "relUrl": "/sage_2025#items"
+  },"141": {
+    "doc": "Paper Story @SAGE2025",
+    "title": "Badges",
+    "content": ". Spin Dash . BadgeTechnique • ? BP • ??? Coins . Bestows the use of the Spin Dash (? FP) Technique. If you have multiple Spin Dash Badges, you can use them together by spending 1 FP for each additional Badge. Treat [X] as the number of Spin Dash Badges used. Spin Dash Rolls into a ball and revs up before charging forward, going through grounded enemies. Athletics (+Spin): Nice!: [Power] DMG Good!: [2 x Power] DMG (Solid Hit) The attack then repeats with a Strike on up to [X] valid targets behind the first, at the same elevation. Each new Strike deals 1 less Raw Damage than the last; this can't reduce the Raw Damage below 0, so as long as the first strike could deal damage, the rest will deal at least 1 Raw Damage. If the initial Strike was a Solid Hit, the subsequent Strikes are too. Ring Defense . BadgeDefense • ? BP • ??? Coins . You can forego your Guard and Dodge reactions, and instead choose to tank through Rings/Coins. When you would take damage, you can spend Rings/Coins to reduce the damage taken, at a rate of 10 for 1 HP saved. This does not allow you to trigger a Superguard, or to defend against Weaknesses. Other results of reducing damage to 0 apply as normal. Emerald Drain . BadgeBoon • ? BP • ??? Coins . Final design by @lucydndprincess . Having this badge equipped bestows you the following State: . State: (Un)Inhibited Chaos . Your connection to the powers of Chaos/The Stars have been Inhibited in some way. While Inhibited, you cannot spend SP in any way, or Share it with your Teammates. When your SP reaches it's Maximum, you can become Uninhibited. Treat [X] as your Maximum SP divided by 10. While Uninhibited, you lose 1 SP at the Start of each of your Turns for each Turn you've been Uninhibited. In addition to this, all of your Techniques spend SP as if they had Alt-Cost (SP) although Techniques can go down to 0 SP; you have +[X] ATK, and you get +[X]d6 to any Skill Check made outside of Battle. When you run out of SP, you take [X] x 2 Damage. This HP loss can't be resisted in any way (including Defense or Secure) and ignores the user's Weaknesses, Resistances or Immunities. Slingshot Carrier . BadgeAttack • ?? BP • ?? Coins . You can use a Carried ally to power-up your Techniques. When using the power of this Badge, you hit your target with your ally, either by hurling them at the target, or using them as a projectile, depending on the Technique used. At the user's option, this Technique's Primary check can use Athletics instead. Any Contact Traits trigger between your Carried ally and the other target. Treat the Technique as if you had +[X] Attack, where [X] is the Power of your Carried ally. Your Carried ally can add one of their Tech Defaults, or one of the Technique Traits of one of their 0 FP Techniques, to the Technique. After the Technique resolves, your ally is no longer Carried, and can place themselves in a space adjacent to you. Throwing Blaze is a good way to deal Fire damage, while Sonic can be useful to make sure my attacks are Homing on my foes, or Pierce their defenses! . Team Blast . BadgeTechnique • ? BP • ??? Coins . For 10 SP, you can claim to perform a Team Blast when using a Technique. The Technique receives the Group positive Trait and the Team negative Trait twice. The participating allies can add one of their Tech Defaults, or one of the Technique Traits of one of their 0 FP Techniques, to the Technique. If the included Traits include Traits that would normally be meant to help allies (Like Hearty or Boost), the Technique can include a single Split Slot that can't contain any Strikes and targets the participants to the Team Blast. Participating allies can pay 5 SP to add another instance of a Trait they already contributed to the Technique. This can be done multiple times. Treat the Technique as if you had +[X] Attack, where [X] is the half of he combined Power of the participants. Team Move . BadgeTechnique • ? BP • ??? Coins . When you first receive this Badge, select one to three allies to create a Technique with. Design this Technique as you would any other, with the following changes: . | The Technique includes the Team negative Trait for every ally participating to the Technique. Those Traits reduce the FP Cost, but don't count towards your usual negative Traits Limit for FP Cost reduction. | Each ally participating to the Technique can add one of their Tech Defaults, or one of the Technique Traits of one of their 0 FP Techniques, to the Technique. | The Technique has Cooldown x3. Those Traits don't count towards FP Cost reduction. | When using the Technique, treat it as if you had +[X] Attack, where [X] is the half of he combined Power of the participants. | The BP cost of this badge is equal to the effective FP Cost/5. | . Once designed, the Badge is locked to the current Technique and participants, and can only be equipped by the user who designed the Technique. If you need to redesign the Technique or reset the badge altogether, you can ask a Craftman to help you unlock it, requiring to Work from Scratch on the badge for an equivalent cost of 50 Coins multiplied by its BP Cost. No additional materials are required. The badge is unusable while it's being worked on. ",
+    "url": "/homebrew/sage_2025#badges",
+    
+    "relUrl": "/sage_2025#badges"
+  },"142": {
+    "doc": "Podo & Summer's Semi-Automated Player Sheet",
+    "title": "Podo &amp; Summer's Semi-Automated Player Sheet",
+    "content": "Available on Google Sheet at the following link: Here! . ",
+    "url": "/homebrew/session-tools/podo_summer_semiauto_player_sheet#podo--summers-semi-automated-player-sheet",
+    
+    "relUrl": "/session-tools/podo_summer_semiauto_player_sheet#podo--summers-semi-automated-player-sheet"
+  },"143": {
+    "doc": "Podo & Summer's Semi-Automated Player Sheet",
+    "title": "Podo & Summer's Semi-Automated Player Sheet",
+    "content": " ",
+    "url": "/homebrew/session-tools/podo_summer_semiauto_player_sheet",
+    
+    "relUrl": "/session-tools/podo_summer_semiauto_player_sheet"
+  },"144": {
+    "doc": "Session Tools",
+    "title": "Session Tools",
+    "content": " ",
+    "url": "/homebrew/session-tools",
+    
+    "relUrl": "/session-tools"
+  },"145": {
+    "doc": "Skills",
+    "title": "Homebrew Skills",
+    "content": " ",
+    "url": "/homebrew/skills#homebrew-skills",
+    
+    "relUrl": "/skills#homebrew-skills"
+  },"146": {
+    "doc": "Skills",
+    "title": "Skills",
+    "content": " ",
+    "url": "/homebrew/skills",
+    
+    "relUrl": "/skills"
+  },"147": {
+    "doc": "Species",
+    "title": "Homebrew Species",
+    "content": " ",
+    "url": "/homebrew/species#homebrew-species",
+    
+    "relUrl": "/species#homebrew-species"
+  },"148": {
+    "doc": "Species",
+    "title": "Species",
+    "content": " ",
+    "url": "/homebrew/species",
+    
+    "relUrl": "/species"
+  },"149": {
+    "doc": "Star Power",
+    "title": "Homebrew Star Power Mechanics",
+    "content": " ",
+    "url": "/homebrew/star_power#homebrew-star-power-mechanics",
+    
+    "relUrl": "/star_power#homebrew-star-power-mechanics"
+  },"150": {
+    "doc": "Star Power",
+    "title": "Star Power",
+    "content": " ",
+    "url": "/homebrew/star_power",
+    
+    "relUrl": "/star_power"
+  },"151": {
+    "doc": "Status",
+    "title": "Homebrew Status",
+    "content": " ",
+    "url": "/homebrew/status#homebrew-status",
+    
+    "relUrl": "/status#homebrew-status"
+  },"152": {
+    "doc": "Status",
+    "title": "Status",
+    "content": " ",
+    "url": "/homebrew/status",
+    
+    "relUrl": "/status"
+  },"153": {
+    "doc": "Subspecies",
+    "title": "Homebrew Subspecies",
+    "content": " ",
+    "url": "/homebrew/subspecies#homebrew-subspecies",
+    
+    "relUrl": "/subspecies#homebrew-subspecies"
+  },"154": {
+    "doc": "Subspecies",
+    "title": "Subspecies",
+    "content": " ",
+    "url": "/homebrew/subspecies",
+    
+    "relUrl": "/subspecies"
+  },"155": {
+    "doc": "Techniques",
+    "title": "Homebrew Techniques",
+    "content": " ",
+    "url": "/homebrew/techniques#homebrew-techniques",
+    
+    "relUrl": "/techniques#homebrew-techniques"
+  },"156": {
+    "doc": "Techniques",
+    "title": "Techniques",
+    "content": " ",
+    "url": "/homebrew/techniques",
+    
+    "relUrl": "/techniques"
+  },"157": {
+    "doc": "Terrains",
+    "title": "Homebrew Terrains",
+    "content": " ",
+    "url": "/homebrew/terrains#homebrew-terrains",
+    
+    "relUrl": "/terrains#homebrew-terrains"
+  },"158": {
+    "doc": "Terrains",
+    "title": "Terrains",
+    "content": " ",
+    "url": "/homebrew/terrains",
+    
+    "relUrl": "/terrains"
+  }
+}
