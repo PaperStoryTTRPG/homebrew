@@ -780,7 +780,7 @@ contributors:
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Magic (IOnfluence)*{: .spirit-color }  
+> > *+ Magic (Influence)*{: .spirit-color }  
 > > *+ Knowhow (Nature)*{: .spirit-color }  
 > > *+ Steady (Thorns)*{: .courage-color }  
 > > Immunity (Water)  
