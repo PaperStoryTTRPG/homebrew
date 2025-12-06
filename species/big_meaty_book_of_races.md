@@ -190,8 +190,8 @@ contributors:
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Notice (Noise)*{: .spirit-color }  
-> > *+ Bully (Deafening)*{: .courage-color }
-> > *+ Perform (Music)*{: .courage-color }{: .mgl .fs-3 }
+> > *+ Bully (Deafening)*{: .courage-color }  
+> > *+ Perform (Music)*{: .courage-color }
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -771,7 +771,7 @@ contributors:
 > {: .float-right-desktop }
 > From *Super Paper Mario*{: .italic }  
 >
-> Distant relatives of dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can't fix the problem with good vibes.
+> Distant relatives of Dayzees, Floro Sapiens are extremely conscious of their environment. They work to keep it clean and safe, and often resort to hostility when they can't fix the problem with good vibes.
 >
 > *Created by: @lonelyazalea*{: .italic .courage-color }
 >
@@ -1376,7 +1376,8 @@ contributors:
 >
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
-> > *+ Knowhow (Any one job, chosen at character creation)*{: .spirit-color }  
+> > *+ Knowhow (Job of Choice)*{: .spirit-color }  
+> > *Choose a specific job for this specialisation during character creation*{: .mgl .fs-3 }  
 > > *+ Trickery (Join the Crowd)*{: .spirit-color }  
 > > *+ Perform (Modern Hits)*{: .courage-color }  
 >
@@ -1387,7 +1388,7 @@ contributors:
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Alternative (Coins)  
+> > Alt-Cost (Coins)  
 > > *Tool*{: .alt-grey-line }  
 > >
 > > 1x Custom Set of Traits  
@@ -1761,7 +1762,7 @@ contributors:
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Coordination (Piloting)*{: .heart-color }  
 > > *+ Knowhow (Lore)*{: .spirit-color }  
-> > *+ Cheer (Inspire)*{: .spirit-color }
+> > *+ Cheer (Inspire)*{: .spirit-color }   
 > > Fly
 >
 > {: .specie-cons-callout }
