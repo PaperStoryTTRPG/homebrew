@@ -1296,7 +1296,7 @@ contributors:
 >
 > Mildes are known to be a cheerful and carefree bunch, not letting much get to them. They're known for their precise movements and marching, though tend to be a little airheaded… especially when stomped on.
 >
-> Created by *@lonelyazalea*{: .italic .courage-color } and *@piyohthegenius*{: .italic .courage-color }
+> Created by *@piyohthegenius*{: .italic .courage-color }
 >
 > *CAUTION! With their weakness, a milde player can easily get out of hand in combat. Make sure to run this by your GM first!*{: .bold }
 >
